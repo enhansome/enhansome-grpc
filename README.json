@@ -1,0 +1,3358 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Technical documentation",
+          "description": "Collection of useful technical documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:40:21Z",
+            "owner": "grpc",
+            "repo": "grpc",
+            "stars": 45281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC status codes",
+          "description": "Status codes and their use in gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:40:21Z",
+            "owner": "grpc",
+            "repo": "grpc",
+            "stars": 45281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC status code mapping",
+          "description": "HTTP to gRPC Status Code Mapping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:40:21Z",
+            "owner": "grpc",
+            "repo": "grpc",
+            "stars": 45281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-errors",
+          "description": "Code examples in each language on how to return and handle error statuses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-25T21:57:26Z",
+            "owner": "avinassh",
+            "repo": "grpc-errors",
+            "stars": 588
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gRPC Core",
+          "description": "C, C++, Ruby, Node.js, Python, PHP, C#, Objective-C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:40:21Z",
+            "owner": "grpc",
+            "repo": "grpc",
+            "stars": 45281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc_cli",
+          "description": "gRPC CLI tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:40:21Z",
+            "owner": "grpc",
+            "repo": "grpc",
+            "stars": 45281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Go",
+          "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T07:38:01Z",
+            "owner": "grpc",
+            "repo": "grpc-go",
+            "stars": 23038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Java",
+          "description": "The Java gRPC implementation. HTTP/2 based RPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T05:58:03Z",
+            "owner": "grpc",
+            "repo": "grpc-java",
+            "stars": 12061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Web",
+          "description": "gRPC for Web Clients",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T05:27:09Z",
+            "owner": "grpc",
+            "repo": "grpc-web",
+            "stars": 9251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Node.js",
+          "description": "gRPC for Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T16:50:46Z",
+            "owner": "grpc",
+            "repo": "grpc-node",
+            "stars": 4844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC C#",
+          "description": "The C# language implementation of gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T02:55:33Z",
+            "owner": "grpc",
+            "repo": "grpc-dotnet",
+            "stars": 4479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Swift",
+          "description": "The Swift language implementation of gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T14:56:30Z",
+            "owner": "grpc",
+            "repo": "grpc-swift",
+            "stars": 2248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Kotlin",
+          "description": "The Kotlin gRPC implementation. Based on gRPC Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-12-19T18:33:09Z",
+            "owner": "grpc",
+            "repo": "grpc-kotlin",
+            "stars": 1298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Dart",
+          "description": "The Dart language implementation of gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-03T07:40:12Z",
+            "owner": "grpc",
+            "repo": "grpc-dart",
+            "stars": 892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC contrib",
+          "description": "Known useful contributions around github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-29T16:26:58Z",
+            "owner": "grpc",
+            "repo": "grpc-community",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "Official Libraries and Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grpcurl",
+          "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T19:38:18Z",
+            "owner": "fullstorydev",
+            "repo": "grpcurl",
+            "stars": 12778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evans",
+          "description": "more expressive universal gRPC (CLI) client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-26T08:27:59Z",
+            "owner": "ktr0731",
+            "repo": "evans",
+            "stars": 4489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpcc",
+          "description": "Node.js grpc command-line client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-18T16:27:03Z",
+            "owner": "njpatel",
+            "repo": "grpcc",
+            "stars": 1133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polyglot",
+          "description": "A gRPC command line client written in Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-09-05T17:33:32Z",
+            "owner": "grpc-ecosystem",
+            "repo": "polyglot",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protodot",
+          "description": "Transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-21T20:52:56Z",
+            "owner": "seamia",
+            "repo": "protodot",
+            "stars": 469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-client-cli",
+          "description": "interactive gRPC client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T20:29:16Z",
+            "owner": "vadimi",
+            "repo": "grpc-client-cli",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpcdebug",
+          "description": "Debugs serving gRPC applications with tools like channel trace info, xDS config dump, and health checking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-04T19:08:30Z",
+            "owner": "grpc-ecosystem",
+            "repo": "grpcdebug",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gWhisper",
+          "description": "Client with interactive tab-completion (uses reflection) and human readable format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-17T20:28:11Z",
+            "owner": "IBM",
+            "repo": "gWhisper",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proto-to-postman",
+          "description": "Create postman API import collection from .proto files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-06-19T01:13:11Z",
+            "owner": "sonatard",
+            "repo": "proto-to-postman",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gcall",
+          "description": "Simple Node.js gRPC command line interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-09T23:01:46Z",
+            "owner": "bojand",
+            "repo": "gcall",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proto2asciidoc",
+          "description": "Generate AsciiDoc documentation from a .proto file",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-04-21T13:17:37Z",
+            "owner": "productsupcom",
+            "repo": "protoc-gen-proto2asciidoc",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sylk",
+          "description": "A gRPC framework for building projects in Python, Typescript / NodeJS and Go from a simple CLI and powerful UI platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-17T21:56:33Z",
+            "owner": "sylk-build",
+            "repo": "sylk",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "CLI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grpcui",
+          "description": "An interactive web UI for gRPC, along the lines of postman (also, a Go library for embedding these web UIs into Go HTTP servers)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T18:52:35Z",
+            "owner": "fullstorydev",
+            "repo": "grpcui",
+            "stars": 5917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wombat",
+          "description": "A cross platform gRPC client. Auto-generates input fields from your proto files or the gRPC reflection API. Not another Electron app - built with Qt and Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-07-11T08:49:23Z",
+            "owner": "rogchap",
+            "repo": "wombat",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Milkman",
+          "description": "Extensible alternative to Postman for crafting all kinds of requests, not only for gRPC, also http, sql etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-04T12:53:04Z",
+            "owner": "warmuuh",
+            "repo": "milkman",
+            "stars": 1339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezy",
+          "description": "🔥 Fully-featured GUI client for gRPC/gRPC-Web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-26T11:37:45Z",
+            "owner": "getezy",
+            "repo": "ezy",
+            "stars": 1039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPCox",
+          "description": "Like Postman, but for gRPC. web based GUI Client for gRPC, extremely easy to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-10T07:58:32Z",
+            "owner": "gusaul",
+            "repo": "grpcox",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ptg",
+          "description": "GUI gRPC client, it is also a performance testing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-07-11T05:42:42Z",
+            "owner": "crossoverJie",
+            "repo": "ptg",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Yodelay.io)",
+          "description": "A browser GUI Making sure your outbound 🗣️ ‘yodelay’ returns the ‘IiiOoo’ 📣 that you expect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-27T15:00:11Z",
+            "owner": "oslabs-beta",
+            "repo": "Yodelay",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MuninRPC",
+          "description": "Protobuf request and response testing application under the gRPC system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-04-18T16:47:24Z",
+            "owner": "muninrpc",
+            "repo": "muninrpc",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warthog",
+          "description": "A cross platform gRPC client. Input generation for all types, including nested and looped messages. Saving requests and servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-06T12:37:27Z",
+            "owner": "Forest33",
+            "repo": "warthog",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delivery",
+          "description": "A simple electron app for gRPC that uses gRPCurl to autodetect all endpoints/methods and their request bodies, just modify the JSON body. Simplicity in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-14T11:20:36Z",
+            "owner": "kfwerf",
+            "repo": "delivery",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kalisto",
+          "description": "Automate and test intricate gRPC API workflows with ease using JavaScript-based scripting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-26T20:06:24Z",
+            "owner": "Kalisto-Application",
+            "repo": "kalisto",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fortio",
+          "description": "A microservices (http, grpc) load testing library and tool from Istio project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T16:05:37Z",
+            "owner": "fortio",
+            "repo": "fortio",
+            "stars": 3717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghz",
+          "description": "Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T03:42:55Z",
+            "owner": "bojand",
+            "repo": "ghz",
+            "stars": 3348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microcks",
+          "description": "A Cloud Native Computing Sandbox project 🚀 dedicated to API Mocking and Testing (gRPC supported)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T09:32:35Z",
+            "owner": "microcks",
+            "repo": "microcks",
+            "stars": 2013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Step CI",
+          "description": "Open-Source API Testing and Monitoring (now with gRPC support!)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-03T09:44:52Z",
+            "owner": "stepci",
+            "repo": "stepci",
+            "stars": 1867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-tools",
+          "description": "A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-14T10:42:44Z",
+            "owner": "bradleyjkemp",
+            "repo": "grpc-tools",
+            "stars": 1238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc_bench",
+          "description": "A suite of gRPC benchmarks for different technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-06-22T08:01:16Z",
+            "owner": "LesnyRumcajs",
+            "repo": "grpc_bench",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-swagger",
+          "description": "Debugging gRPC application with swagger-ui.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-30T18:45:57Z",
+            "owner": "grpc-swagger",
+            "repo": "grpc-swagger",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "camouflage",
+          "description": "Camouflage is a backend mocking tool for HTTP, gRPC and Websockets protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-19T06:43:44Z",
+            "owner": "testinggospels",
+            "repo": "camouflage",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mediator",
+          "description": "Cross-platform GUI gRPC debugging proxy like charles but design for gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-10-27T06:45:59Z",
+            "owner": "ButterCam",
+            "repo": "Mediator",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpcdump",
+          "description": "Tool for capture and decode GRPC messages from ethernet traffic only for Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-25T14:13:23Z",
+            "owner": "rmedvedev",
+            "repo": "grpcdump",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strest-grpc",
+          "description": "A load tester for stress testing grpc intermediaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-06-17T00:18:12Z",
+            "owner": "BuoyantIO",
+            "repo": "strest-grpc",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hazana",
+          "description": "A Go package for creating load test tooling. Supports gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-26T07:39:28Z",
+            "owner": "emicklei",
+            "repo": "hazana",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jmeter-grpc-plugin",
+          "description": "A plugin supports load test gRPC service with Jmeter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-14T22:27:15Z",
+            "owner": "zalopay-oss",
+            "repo": "jmeter-grpc-plugin",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "karate-grpc",
+          "description": "Example of using Karate to integrate and test gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-11T11:19:57Z",
+            "owner": "karatelabs",
+            "repo": "karate-examples",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "APISIX",
+          "description": "An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-13T00:05:17Z",
+            "owner": "apache",
+            "repo": "apisix",
+            "stars": 16986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ratelimit",
+          "description": "Go/gRPC service designed to enable generic rate limit scenarios from different types of applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:39:08Z",
+            "owner": "envoyproxy",
+            "repo": "ratelimit",
+            "stars": 2683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-proxy",
+          "description": "gRPC reverse proxy with the goal of making it easy to expose gRPC services over the internet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-18T21:32:48Z",
+            "owner": "mwitkow",
+            "repo": "grpc-proxy",
+            "stars": 1048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zilla",
+          "description": "An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T07:58:03Z",
+            "owner": "aklivity",
+            "repo": "zilla",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kafka-pixy",
+          "description": "gRPC/REST proxy for Kafka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-23T15:06:40Z",
+            "owner": "mailgun",
+            "repo": "kafka-pixy",
+            "stars": 789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-protoc",
+          "description": "Dockerized protoc, grpc-gateway, and grpc_cli commands bundled with Google API libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-09T21:49:25Z",
+            "owner": "namely",
+            "repo": "docker-protoc",
+            "stars": 743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-json-proxy",
+          "description": "A proxy which allows existing tools like Postman or curl to interact with gRPC servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T13:22:41Z",
+            "owner": "jnewmano",
+            "repo": "grpc-json-proxy",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-gotemplate",
+          "description": "Generic generator based on golang's template system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:18:31Z",
+            "owner": "moul",
+            "repo": "protoc-gen-gotemplate",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-http-proxy",
+          "description": "A reverse proxy server which translate JSON HTTP requests to gRPC calls based on protoreflect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-05T20:32:50Z",
+            "owner": "mercari",
+            "repo": "grpc-http-proxy",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-pentest-suite",
+          "description": "A collection of tools for pentesting gRPC-Web, including a Burp Suite extension for manipulating gRPC-Web payloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-13T11:28:53Z",
+            "owner": "nxenon",
+            "repo": "grpc-pentest-suite",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sabledocs",
+          "description": "A simple static documentation generator for Protobuf and gRPC contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-05-09T19:00:49Z",
+            "owner": "markvincze",
+            "repo": "sabledocs",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "limitador",
+          "description": "Generic rate-limiter written in Rust exposing a gRPC service that implements the Envoy Rate Limit protocol (v3).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T14:13:23Z",
+            "owner": "Kuadrant",
+            "repo": "limitador",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rk-grpc",
+          "description": "Middleware and bootstrapper library for gRPC with logging, metrics, auth, tracing etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-31T12:37:21Z",
+            "owner": "rookie-ninja",
+            "repo": "rk-grpc",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-mate",
+          "description": "A dynamic proxy server that translates JSON HTTP requests into gRPC calls",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-07-05T00:28:45Z",
+            "owner": "gdong42",
+            "repo": "grpc-mate",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danby",
+          "description": "A grpc proxy for the browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T16:14:41Z",
+            "owner": "ericbets",
+            "repo": "danby",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jawlb",
+          "description": "An unsophisticated grpclb load balancer implementation for Kubernetes and gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-30T14:07:36Z",
+            "owner": "joa",
+            "repo": "jawlb",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-hbs",
+          "description": "Fast and easy protobuf generation with handlebars and some helpers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T08:41:46Z",
+            "owner": "90dy",
+            "repo": "protoc-gen-hbs",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpcson",
+          "description": "An easy to use proxy which translates JSON HTTP requests to gRPC calls with web ui",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-08-16T17:08:02Z",
+            "owner": "siyanew",
+            "repo": "grpcson",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PropaneDB",
+          "description": "A Protocol Buffers database with gRPC API and Golang driver.",
+          "children": []
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Language-Specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "go-kit gRPC",
+          "description": "Go Kit with gRPC as transport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-19T01:40:06Z",
+            "owner": "go-kit",
+            "repo": "kit",
+            "stars": 27428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rpcx",
+          "description": "A RPC service framework based on net/rpc like alibaba Dubbo and weibo Motan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T13:19:21Z",
+            "owner": "smallnest",
+            "repo": "rpcx",
+            "stars": 8310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpcui",
+          "description": "Embed a gRPC web UI into a Go gRPC/HTTP server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T18:52:35Z",
+            "owner": "fullstorydev",
+            "repo": "grpcui",
+            "stars": 5917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cmux",
+          "description": "Connection multiplexer for GoLang: serve different services on the same port! Supports gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-08T03:39:49Z",
+            "owner": "soheilhy",
+            "repo": "cmux",
+            "stars": 2766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lile",
+          "description": "Easily create gRPC services in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-19T07:05:49Z",
+            "owner": "lileio",
+            "repo": "lile",
+            "stars": 1497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoreflect",
+          "description": "Reflection (Rich Descriptors) for Go Protocol Buffers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T15:52:52Z",
+            "owner": "jhump",
+            "repo": "protoreflect",
+            "stars": 1487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-proxy",
+          "description": "gRPC proxy is a Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-18T21:32:48Z",
+            "owner": "mwitkow",
+            "repo": "grpc-proxy",
+            "stars": 1048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gripmock",
+          "description": "gRPC Mock Server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-19T01:28:19Z",
+            "owner": "tokopedia",
+            "repo": "gripmock",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC over NATS",
+          "description": "nRPC is an RPC framework like gRPC, but for NATS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-24T20:48:05Z",
+            "owner": "nats-rpc",
+            "repo": "nrpc",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mortar",
+          "description": "GO framework for building gRPC (and REST) web services with DI, Telemetry and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-13T11:03:21Z",
+            "owner": "go-masonry",
+            "repo": "mortar",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttrpc",
+          "description": "GRPC for low-memory environments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T01:32:28Z",
+            "owner": "containerd",
+            "repo": "ttrpc",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kuberesolver",
+          "description": "gRPC Load Balancer with Kubernetes resolver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-01T09:53:15Z",
+            "owner": "sercand",
+            "repo": "kuberesolver",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-gateway-boilerplate",
+          "description": "All the boilerplate you need to get started with writing grpc-gateway powered REST services in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-18T20:55:00Z",
+            "owner": "johanbrandhorst",
+            "repo": "grpc-gateway-boilerplate",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-web-devtools",
+          "description": "Chrome Browser extension to aid gRPC-Web development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-25T00:08:46Z",
+            "owner": "SafetyCulture",
+            "repo": "grpc-web-devtools",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yarpc",
+          "description": "A message passing platform for Go, including support for gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:39:51Z",
+            "owner": "yarpc",
+            "repo": "yarpc-go",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grapi",
+          "description": "😮 A surprisingly easy API server and generator in gRPC and Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-16T02:07:08Z",
+            "owner": "x-izumin",
+            "repo": "grapi",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-consul-resolver",
+          "description": "Easy to use endpoints resolver for the services registered in the Consul",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-25T16:35:11Z",
+            "owner": "mbobakov",
+            "repo": "grpc-consul-resolver",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pike",
+          "description": "Generate CRUD gRPC backends from single YAML description",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-16T09:47:04Z",
+            "owner": "sashabaranov",
+            "repo": "pike",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clay",
+          "description": "Minimal server platform for gRPС+REST+Swagger APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T02:32:40Z",
+            "owner": "utrack",
+            "repo": "clay",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpchan",
+          "description": "Channels for gRPC: custom transports, such as in-process and HTTP 1.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T14:27:31Z",
+            "owner": "fullstorydev",
+            "repo": "grpchan",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC for production",
+          "description": "A Golang project that provides the core requirements for a production-ready gRPC communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-02-28T19:32:24Z",
+            "owner": "apssouza22",
+            "repo": "grpc-production-go",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-struct-transformer",
+          "description": "Transformation function generator for protocol buffers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-02-10T18:56:37Z",
+            "owner": "bold-commerce",
+            "repo": "protoc-gen-struct-transformer",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlc-grpc",
+          "description": "Generate gRPC/HTTP server (with metrics, tracing, swagger and grpcui) from SQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-12T23:37:37Z",
+            "owner": "walterwanderley",
+            "repo": "sqlc-grpc",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thunder Framework",
+          "description": "A gRPC-Gateway-powered framework with Prisma, Kubernetes, and Go for scalable microservices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T08:01:24Z",
+            "owner": "Protocol-Lattice",
+            "repo": "thunder",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goprotoc",
+          "description": "Library for writing protoc plugins in Go; also includes a pure-Go protoc replacement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-10T13:23:27Z",
+            "owner": "jhump",
+            "repo": "goprotoc",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "promgrpc",
+          "description": "Prometheus instrumentation for gRPC based services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-18T21:07:12Z",
+            "owner": "piotrkowalczuk",
+            "repo": "promgrpc",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-mock",
+          "description": "A protoc plugin to generate gRPC mock services from proto definitions in Golang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-04-15T15:01:10Z",
+            "owner": "carvalhorr",
+            "repo": "protoc-gen-mock",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-grpc-channelz",
+          "description": "A channelz UI for Golang. Channelz is an approved and already implemented proposal describing the inner state of gRPC connections/channels. go-grpc-channelz provides a simple UI for channelz for easy diagnosis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-02T17:17:34Z",
+            "owner": "rantav",
+            "repo": "go-grpc-channelz",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC over WebSocket",
+          "description": "connect to a gRPC Server behind a firewall by using a pre-established WebSocket connection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-10-27T07:07:03Z",
+            "owner": "glerchundi",
+            "repo": "grpc-boomerang",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-fieldmask",
+          "description": "A protoc plugin that generates fieldmask paths as static type properties of proto messages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:48:42Z",
+            "owner": "idodod",
+            "repo": "protoc-gen-fieldmask",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-go-mock",
+          "description": "A protoc plugin for generating minimal gRPC service mocks suitable for use in tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-11T16:53:47Z",
+            "owner": "kw510",
+            "repo": "protoc-gen-go-mock",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mali",
+          "description": "A minimalistic gRPC microservice framework for Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-15T21:33:45Z",
+            "owner": "malijs",
+            "repo": "mali",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "firecomm",
+          "description": "Feature library for gRPC-Node",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T23:14:12Z",
+            "owner": "firecomm",
+            "repo": "firecomm",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-caller",
+          "description": "An improved Node.js gRPC client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-18T22:50:37Z",
+            "owner": "bojand",
+            "repo": "grpc-caller",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-dynamic-gateway",
+          "description": "Like grpc-gateway, but written in node and dynamic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-12T13:27:49Z",
+            "owner": "konsumer",
+            "repo": "grpc-dynamic-gateway",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-promise",
+          "description": "GRPC promisify module for all Request/Response types: standard and stream",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-30T22:00:16Z",
+            "owner": "carlessistare",
+            "repo": "grpc-promise",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js Proto Files",
+          "description": "All of the Google API's protocol buffer files",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-12-12T22:13:28Z",
+            "owner": "googleapis",
+            "repo": "nodejs-proto-files",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-protoc-plugin",
+          "description": "Create protoc code-generation plugins easily in nodejs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Protocol Buffer",
+            "last_commit": "2017-04-20T00:08:06Z",
+            "owner": "konsumer",
+            "repo": "node-protoc-plugin",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-reflection-js",
+          "description": "gRPC Reflection client for JS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-03T19:46:00Z",
+            "owner": "redhoyasa",
+            "repo": "grpc-reflection-js",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-inspect",
+          "description": "gRPC protocol buffer inspection utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-05T12:32:40Z",
+            "owner": "bojand",
+            "repo": "grpc-inspect",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-create-error",
+          "description": "Utility function for creating for gRPC responses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T02:32:49Z",
+            "owner": "bojand",
+            "repo": "grpc-create-error",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-create-metadata",
+          "description": "Helper utility for creating gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T02:30:19Z",
+            "owner": "bojand",
+            "repo": "grpc-create-metadata",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-error",
+          "description": "class that wraps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T10:25:49Z",
+            "owner": "bojand",
+            "repo": "grpc-error",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-errors",
+          "description": "A quick and easy way of generating errors for use with grpc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-24T05:17:55Z",
+            "owner": "ortoo",
+            "repo": "grpc-errors",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Armeria",
+          "description": "Asynchronous RPC/REST library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T13:13:00Z",
+            "owner": "line",
+            "repo": "armeria",
+            "stars": 5130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-spring-boot-starter",
+          "description": "Spring Boot starter module for gRPC framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-30T10:54:33Z",
+            "owner": "grpc-ecosystem",
+            "repo": "grpc-spring",
+            "stars": 3709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-spring-boot-starter",
+          "description": "Spring Boot starter module for gRPC framework from LogNet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-13T09:06:50Z",
+            "owner": "LogNet",
+            "repo": "grpc-spring-boot-starter",
+            "stars": 2258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-java-contrib",
+          "description": "Useful extensions for the grpc-java library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-02T18:02:24Z",
+            "owner": "salesforce",
+            "repo": "grpc-java-contrib",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpcmock",
+          "description": "A gRPC Java testing tool to easily mock endpoints of gRPC services for IT or Unit testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-23T05:44:50Z",
+            "owner": "Fadelis",
+            "repo": "grpcmock",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gax-java",
+          "description": "Google API Extensions for Java",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-05-14T03:08:41Z",
+            "owner": "googleapis",
+            "repo": "sdk-platform-java",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-java-optional",
+          "description": "A Java Protoc plugin extending generated java classes with null safe and methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-10-27T05:10:36Z",
+            "owner": "Fadelis",
+            "repo": "protoc-gen-java-optional",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gruf",
+          "description": "gRPC Ruby Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-20T15:05:53Z",
+            "owner": "bigcommerce",
+            "repo": "gruf",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gapic-generator-ruby",
+          "description": "Generates Ruby gRPC client libraries from protocol buffer definitions of an API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T23:22:16Z",
+            "owner": "googleapis",
+            "repo": "gapic-generator-ruby",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "betterproto",
+          "description": "More pythonic gRPC based on grpclib and dataclasses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-17T12:50:40Z",
+            "owner": "danielgtaylor",
+            "repo": "python-betterproto",
+            "stars": 1770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpclib",
+          "description": "Pure-Python gRPC implementation, based on hyper-h2 project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T22:22:50Z",
+            "owner": "vmagamedov",
+            "repo": "grpclib",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-grpc-framework",
+          "description": "A gRPC toolkit for Django inspired by djangorestframework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-10T18:36:33Z",
+            "owner": "fengsp",
+            "repo": "django-grpc-framework",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bali",
+          "description": "Simplify Cloud Native Microservices development base on FastAPI and gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-10T09:05:06Z",
+            "owner": "bali-framework",
+            "repo": "bali",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-grpc",
+          "description": "Django application to build gRPC services with access to ORM, settings and everything else",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T13:12:08Z",
+            "owner": "gluk-w",
+            "repo": "django-grpc",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-grpc",
+          "description": "pytest plugin which allow test gRPC services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-31T08:14:44Z",
+            "owner": "kataev",
+            "repo": "pytest-grpc",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpcalchemy",
+          "description": "The Python micro framework for building gPRC application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-12T10:21:47Z",
+            "owner": "GuangTianLi",
+            "repo": "grpcalchemy",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast-gRPC",
+          "description": "The Python async micro framework for easy develop gRPC server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-20T05:24:12Z",
+            "owner": "OlegYurchik",
+            "repo": "fast-grpc",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc_requests",
+          "description": "GRPC for Humans! grpc reflection support client. you can request grpc just like REST(No need Stub!)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T14:22:16Z",
+            "owner": "grpc-requests",
+            "repo": "grpc_requests",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "garuda",
+          "description": "Automagically Exposing Django ORM over gRPC for microservices written in any other languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-26T13:02:49Z",
+            "owner": "dhilipsiva",
+            "repo": "garuda",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MagicOnion",
+          "description": "gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T03:20:18Z",
+            "owner": "Cysharp",
+            "repo": "MagicOnion",
+            "stars": 4438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrpcBrowser",
+          "description": "a web UI for interactively debugging all types of gRPC endpoints",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-17T16:34:45Z",
+            "owner": "thomaswormald",
+            "repo": "grpc-browser",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tonic",
+          "description": "A native gRPC client & server implementation with async/await support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T22:11:19Z",
+            "owner": "grpc",
+            "repo": "grpc-rust",
+            "stars": 12423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-rs",
+          "description": "The gRPC library for Rust built on C Core library and futures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-04T06:36:33Z",
+            "owner": "tikv",
+            "repo": "grpc-rs",
+            "stars": 1852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wtx",
+          "description": "RFC7541 and RFC9113 implementation with built-in support for connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T19:58:11Z",
+            "owner": "c410-f3r",
+            "repo": "wtx",
+            "stars": 394
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grpcbox",
+          "description": "Erlang grpc client and server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-11T10:43:27Z",
+            "owner": "tsloughter",
+            "repo": "grpcbox",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Erlang grpc",
+          "description": "Erlang library for gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2023-07-29T21:06:13Z",
+            "owner": "Bluehouse-Technology",
+            "repo": "grpc",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bert",
+          "description": "Erlang Google Protobuf V3 generator from HRL files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-01T05:44:58Z",
+            "owner": "synrc",
+            "repo": "rpc",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Erlang"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ts-proto",
+          "description": "Transforms your .proto files into strongly-typed, idiomatic TypeScript files!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T16:35:54Z",
+            "owner": "stephenh",
+            "repo": "ts-proto",
+            "stars": 2587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-protoc-gen",
+          "description": "Protoc Plugin for TypeScript Declarations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-21T23:30:21Z",
+            "owner": "improbable-eng",
+            "repo": "ts-protoc-gen",
+            "stars": 1395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protobuf-ts",
+          "description": "Protoc plugin and runtime for TypeScript. Generates gRPC server/client for Node.js, gRPC-Web/Twirp clients for browser, uses Fetch API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-22T02:21:53Z",
+            "owner": "timostamm",
+            "repo": "protobuf-ts",
+            "stars": 1343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nice-grpc",
+          "description": "gRPC library for Node.js and the Browser with modern API and middleware support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T17:49:37Z",
+            "owner": "deeplay-io",
+            "repo": "nice-grpc",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-js-typescript",
+          "description": "Examples of how to use gRPC with TypeScript & Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-18T06:30:34Z",
+            "owner": "badsyntax",
+            "repo": "grpc-js-typescript",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-grpc-gateway-ts",
+          "description": "TypeScript client generator for the grpc-gateway project that generates idiomatic TypeScript clients that connect the web frontend and golang backend fronted by grpc-gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-24T00:21:10Z",
+            "owner": "grpc-ecosystem",
+            "repo": "protoc-gen-grpc-gateway-ts",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sisyphus.js",
+          "description": "gRPC runtime and compiler for Web Clients by HTTP transcoding. Recommend using with Sisyphus back-end framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-08T07:38:16Z",
+            "owner": "ButterCam",
+            "repo": "sisyphus.js",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "TypeScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fs2-grpc",
+          "description": "gRPC implementation for FS2/cats-effect using netty",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-09T16:12:10Z",
+            "owner": "typelevel",
+            "repo": "fs2-grpc",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zio-grpc",
+          "description": "ScalaPB meets ZIO: write purely functional gRPC services and clients using ZIO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-05-07T17:22:54Z",
+            "owner": "scalapb",
+            "repo": "zio-grpc",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http4s-grpc",
+          "description": "A pure Scala gRPC implementation! Use it with http4s Ember and deploy on JVM, Node.js, and Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-08T05:47:00Z",
+            "owner": "http4s",
+            "repo": "http4s-grpc",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Scala"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kroto-plus",
+          "description": "gRPC Coroutines Integration and Protobuf message DSL support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2020-12-18T08:55:26Z",
+            "owner": "marcoferrer",
+            "repo": "kroto-plus",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-kotlin",
+          "description": "A protoc plugin for generating native Kotlin bindings using coroutine primitives for gRPC services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-06-20T22:41:21Z",
+            "owner": "rouzwawi",
+            "repo": "grpc-kotlin",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sisyphus",
+          "description": "Modern gRPC back-end development framework based on Kotlin/Spring Boot with Message DSL/HTTP transcoding/Google AIP support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-04-08T21:08:26Z",
+            "owner": "ButterCam",
+            "repo": "sisyphus",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Kotlin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "asio-grpc",
+          "description": "Asynchronous gRPC with Boost.Asio or libunifex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-31T12:45:39Z",
+            "owner": "Tradias",
+            "repo": "asio-grpc",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qtgrpc",
+          "description": "gRPC and Protobuf generator and bindings for the Qt framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T11:41:40Z",
+            "owner": "qt",
+            "repo": "qtgrpc",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sugar-proto",
+          "description": "A Protobuf wrapper with expressive, minimal, and strongly-typed C++ syntax, close to plain structs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-21T14:17:31Z",
+            "owner": "illegal-instruction-co",
+            "repo": "sugar-proto",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ballerina gRPC",
+          "description": "Ballerina library for gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ballerina",
+            "last_commit": "2026-08-05T16:43:49Z",
+            "owner": "ballerina-platform",
+            "repo": "module-ballerina-grpc",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ballerina gRPC CLI",
+          "description": "Ballerina gRPC CLI tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ballerina",
+            "last_commit": "2026-07-19T03:32:28Z",
+            "owner": "ballerina-platform",
+            "repo": "protoc-tools",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "Ballerina"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How to develop Go gRPC microservice with HTTP/REST endpoint, middleware, Kubernetes deployment, etc",
+          "description": "A series of blog posts for gRPC development using Go. Source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-27T19:41:01Z",
+            "owner": "amsokol",
+            "repo": "go-grpc-http-rest-microservice-tutorial",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The G-Unit Stack: Go, GraphQL, and gRPC",
+          "description": "A blog post and tutorial on using Go, GraphQL and gRPC. Associated repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-07-21T21:43:24Z",
+            "owner": "iheanyi",
+            "repo": "go-grpc-graphql-simple-example",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Building Microservices with Go",
+          "description": "A series of tutorials for building microservices with Go, covers using gRPC (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-14T12:56:11Z",
+            "owner": "nicholasjackson",
+            "repo": "building-microservices-youtube",
+            "stars": 1168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Loadbalancing on Kubernetes",
+          "description": "Presentation at KubeCon Europe 2018. Source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-11T02:28:37Z",
+            "owner": "jtattermusch",
+            "repo": "grpc-loadbalancing-kubernetes-examples",
+            "stars": 249
+          }
+        }
+      ],
+      "title": "Videos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "coolstore-microservices",
+          "description": "A containerized polyglot gRPC microservices based on .NET Core, Nodejs and more running on Istio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-07T00:21:52Z",
+            "owner": "vietnam-devs",
+            "repo": "coolstore-microservices",
+            "stars": 2532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text to Speech server with gRPC and Kubernetes",
+          "description": "justforfunc #12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-11-21T04:54:36Z",
+            "owner": "campoy",
+            "repo": "justforfunc",
+            "stars": 1495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Microservices Example",
+          "description": "HTTP up front, Protobufs in the rear",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-06T21:12:32Z",
+            "owner": "harlow",
+            "repo": "go-micro-services",
+            "stars": 1092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-micro-services",
+          "description": "An demonstration of Golang micro-services that expose a HTTP/JSON frontend and then leverages gRPC for inter-service communication",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-06T21:12:32Z",
+            "owner": "harlow",
+            "repo": "go-micro-services",
+            "stars": 1092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colossus",
+          "description": "An example multi-language gRPC microservice architecture built by Bazel and targeting Kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2022-06-02T18:12:42Z",
+            "owner": "lucperkins",
+            "repo": "colossus",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Java Examples",
+          "description": "A collection of useful/essential gRPC Java Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-07-26T10:15:25Z",
+            "owner": "saturnism",
+            "repo": "grpc-by-example-java",
+            "stars": 885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go gRPC features examples",
+          "description": "A collection of gRPC and Go examples showcasing features of the framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-02-28T19:57:03Z",
+            "owner": "vladimirvivien",
+            "repo": "go-grpc",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Making a Multiplayer Game With Go and gRPC",
+          "description": "gRPC game example in Go. Source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-05-17T15:32:27Z",
+            "owner": "mortenson",
+            "repo": "grpc-game-example",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detailed examples for Go",
+          "description": "A detailed gRPC example in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-10-16T03:08:02Z",
+            "owner": "lixd",
+            "repo": "grpc-go-example",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streaming RPC's using gRPC",
+          "description": "A quick demo of bi-directional streaming RPC's using grpc, Go and Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-03-11T16:08:41Z",
+            "owner": "ridha",
+            "repo": "grpc-streaming-demo",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gifinator",
+          "description": "A sample application demonstrating Kubernetes, gRPC, Go and cute Gophers demoed at Google GCP Next 2017",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2017-05-22T03:46:31Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "gifinator",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multiplayer Simon Says - A Game using gRPC and Kubernetes",
+          "description": "Sample app with Go server and clients using Node.js (on Arduino and web), and Java (Android and CLI)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-11-09T00:53:31Z",
+            "owner": "grpc-ecosystem",
+            "repo": "grpc-simon-says",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC/OpenCensus Demo",
+          "description": "Export metrics and traces from gRPC servers and clients using Java, Go and Prometheus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-08T23:06:19Z",
+            "owner": "rakyll",
+            "repo": "opencensus-grpc-demo",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Goat - An intentionally vulnerable gRPC Security Lab",
+          "description": "gRPC Goat is a \"Vulnerable by Design\" lab created to provide an interactive, hands-on playground for learning and practicing gRPC security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-22T13:28:13Z",
+            "owner": "rootxjs",
+            "repo": "grpc-goat",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gRPC Microservices with Go and Kubernetes",
+          "description": "A sample application use gRPC in microservice and deploy in kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-21T18:17:26Z",
+            "owner": "shuza",
+            "repo": "kubernetes-go-grpc",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hello gRPC",
+          "description": "Simple server and client examples showcasing gRPC features(including proxy and propagate, running in containers and kubernetes) with Java/Kotlin/Go/NodeJs/Python/Rust/C++/C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T19:49:21Z",
+            "owner": "feuyeux",
+            "repo": "hello-grpc",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Envoy proxy as an API gateway for gRPC microservice",
+          "description": "A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with Tilt and REST API enabled. Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-01-15T05:18:25Z",
+            "owner": "ekhabarov",
+            "repo": "bazel-k8s-envoy",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GCP - Online Boutique application rewritten in Ballerina",
+          "description": "Online Boutique application rewritten in Ballerina",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ballerina",
+            "last_commit": "2026-08-06T10:51:17Z",
+            "owner": "ballerina-guides",
+            "repo": "gcp-microservices-demo",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protocol Buffers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "protoc-gen-doc",
+          "description": "Documentation generator plugin for Google Protocol Buffers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T16:29:26Z",
+            "owner": "pseudomuto",
+            "repo": "protoc-gen-doc",
+            "stars": 2836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protovalidate",
+          "description": "Protovalidate provides standard annotations to validate common rules on messages and fields, as well as the ability to use CEL to write custom rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T16:00:12Z",
+            "owner": "bufbuild",
+            "repo": "protovalidate",
+            "stars": 1551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-proto-validators",
+          "description": "Generate message validators from .proto annotations, used in Go gRPC middleware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-25T03:15:36Z",
+            "owner": "mwitkow",
+            "repo": "go-proto-validators",
+            "stars": 1100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openapi2proto",
+          "description": "A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-21T04:46:31Z",
+            "owner": "nytimes",
+            "repo": "openapi2proto",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "api-linter",
+          "description": "A linter for APIs defined in protocol buffers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T19:53:03Z",
+            "owner": "googleapis",
+            "repo": "api-linter",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protolint",
+          "description": "A pluggable linter and fixer to enforce Protocol Buffer style and conventions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-27T04:40:26Z",
+            "owner": "yoheimuta",
+            "repo": "protolint",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protolock",
+          "description": "Protocol Buffer companion tool to and . Track your .proto files and prevent changes to messages and services which impact API compatibilty.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-12T21:22:32Z",
+            "owner": "nilslice",
+            "repo": "protolock",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-lint",
+          "description": "A plug-in for Google's Protocol Buffers (protobufs) compiler to lint .proto files for style violations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-23T22:35:00Z",
+            "owner": "ckaznocha",
+            "repo": "protoc-gen-lint",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-struct-transformer",
+          "description": "Transformation functions generator for Protocol Buffers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-02-10T18:56:37Z",
+            "owner": "bold-commerce",
+            "repo": "protoc-gen-struct-transformer",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wireshark Protobuf Dissector",
+          "description": "A Wireshark Lua plugin for decoding Google protobuf packets. Relevant PR and discussion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-01-19T05:21:43Z",
+            "owner": "128technology",
+            "repo": "protobuf_dissector",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prototools",
+          "description": "Documentation generator & other tools for protobuf/gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-03T18:38:35Z",
+            "owner": "sourcegraph",
+            "repo": "prototools",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-map",
+          "description": "SQL data mapper framework for Protocol Buffers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-08-31T03:31:18Z",
+            "owner": "jackskj",
+            "repo": "protoc-gen-map",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intellij-protobuf-plugin",
+          "description": "IntelliJ-based IDEs Protobuf Language Plugin that provides Protobuf language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-09T14:20:48Z",
+            "owner": "devkanro",
+            "repo": "intellij-protobuf-plugin",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-apidocs",
+          "description": "Documentation generator plugin for protobuf/gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-24T18:27:15Z",
+            "owner": "tmc",
+            "repo": "protoc-gen-apidocs",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protoxygen",
+          "description": "Doxygen plugin to generate documentation for protobuf/gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-13T14:00:51Z",
+            "owner": "lisroach",
+            "repo": "Protoxygen",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pbvm",
+          "description": "Protocol Buffers Version Manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-07-22T23:07:46Z",
+            "owner": "ekalinin",
+            "repo": "pbvm",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Twirp",
+          "description": "A simple RPC framework with protobuf service definitions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-05T21:36:11Z",
+            "owner": "twitchtv",
+            "repo": "twirp",
+            "stars": 7527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greenpack",
+          "description": "Serialization format similar to MessagePack, but adds field versioning and type annotation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-23T17:47:33Z",
+            "owner": "glycerine",
+            "repo": "greenpack",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Similar"
+    },
+    {
+      "description": "Tools and libraries that are no longer maintained.",
+      "items": [],
+      "title": "Archive"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BloomRPC",
+          "description": "A nice and simple GUI Client. Exploring and interacting with gRPC and gRPC-web services has never been simpler, Inspired By GraphQL-Playground and Postman",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T07:51:04Z",
+            "owner": "bloomrpc",
+            "repo": "bloomrpc",
+            "stars": 8986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omgRPC",
+          "description": "A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-03T16:17:53Z",
+            "owner": "troylelandshields",
+            "repo": "omgrpc",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "letmegrpc",
+          "description": "Generate a web form gui from a grpc specification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-01T11:18:26Z",
+            "owner": "gogo",
+            "repo": "letmegrpc",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plumber",
+          "description": "Another one GUI for GRPC requests (reflection only)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-09T16:27:23Z",
+            "owner": "pashkatrick",
+            "repo": "Plumber",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Language-Specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grpc-web",
+          "description": "gRPC Web implementation for Golang and TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-23T08:13:21Z",
+            "owner": "improbable-eng",
+            "repo": "grpc-web",
+            "stars": 4473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proteus",
+          "description": "Generate .proto files from Go source code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-10-19T17:17:47Z",
+            "owner": "src-d",
+            "repo": "proteus",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-microservice-helpers",
+          "description": "A collection of handy snippets that simplify creation of gRPC servers and clients",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2019-02-05T16:56:58Z",
+            "owner": "google",
+            "repo": "go-microservice-helpers",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpclb",
+          "description": "External Load Balancing Service solution for gRPC written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-05-04T10:14:25Z",
+            "owner": "bsm",
+            "repo": "grpclb",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-cobra",
+          "description": "Command line tool generator for Go gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-02-11T08:56:22Z",
+            "owner": "fiorix",
+            "repo": "protoc-gen-cobra",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-GRPC Micro",
+          "description": "Micro based gRPC framework for microservices",
+          "children": []
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grpc-bus",
+          "description": "Call gRPC services (even streams!) from the browser over any two-way socket to Node and soon Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-08-16T21:52:02Z",
+            "owner": "paralin",
+            "repo": "grpc-bus",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-host-builder",
+          "description": "Lightweight library for building gRPC services with server side interceptors support",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-09-05T04:00:48Z",
+            "owner": "litichevskiydv",
+            "repo": "grpc-host-builder",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-web-gateway",
+          "description": "HTTP & WebSocket proxy gateway for gRPC services",
+          "children": []
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rejoiner",
+          "description": "Generates a GraphQL schema from gRPC microservices",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-06-13T22:58:03Z",
+            "owner": "google",
+            "repo": "rejoiner",
+            "stars": 3660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reactive-grpc",
+          "description": "Integrates reactive programming with grpc-java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-02T18:03:13Z",
+            "owner": "salesforce",
+            "repo": "reactive-grpc",
+            "stars": 840
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grpc-rust",
+          "description": "Rust implementation of gRPC",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-04-08T23:37:29Z",
+            "owner": "stepancheg",
+            "repo": "grpc-rust",
+            "stars": 1368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tower-grpc",
+          "description": "A client and server gRPC implementation based on Tower. Deprecated in favour of tonic",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2019-10-02T15:29:29Z",
+            "owner": "tower-rs",
+            "repo": "tower-grpc",
+            "stars": 563
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gapic-generator-kotlin",
+          "description": "Generates coroutine-based gRPC Kotlin client libraries from a protocol buffer description of an API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-07-15T12:29:51Z",
+            "owner": "googleapis",
+            "repo": "gapic-generator-kotlin",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-kapt",
+          "description": "Annotation driven gRPC clients & servers in Kotlin with coroutines",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2019-08-09T05:06:40Z",
+            "owner": "google",
+            "repo": "grpc-kapt",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Kotlin"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protocol Buffers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "prototool",
+          "description": "Compile, lint, and format Protobuf files, and generate stubs for any lanuguage/plugin, along with Vim/IDE integration",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-03-01T12:56:26Z",
+            "owner": "uber",
+            "repo": "prototool",
+            "stars": 5033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-map",
+          "description": "SQL data mapper framework for Protocol Buffers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-08-31T03:31:18Z",
+            "owner": "jackskj",
+            "repo": "protoc-gen-map",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protoc-gen-validate",
+          "description": "Protoc plugin to generate polyglot message validators",
+          "children": []
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gogoprotobuf",
+          "description": "Fork of golang/protobuf with extra code generation features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-27T11:52:49Z",
+            "owner": "gogo",
+            "repo": "protobuf",
+            "stars": 5662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TChannel",
+          "description": "Network multiplexing and framing protocol for RPC",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Thrift",
+            "last_commit": "2022-05-03T16:14:01Z",
+            "owner": "uber",
+            "repo": "tchannel",
+            "stars": 1149
+          }
+        }
+      ],
+      "title": "Similar"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:43:31.544Z",
+    "original_repository": "grpc-ecosystem/awesome-grpc",
+    "original_repository_sha": "eaa8bd9d9e3fdaa3328375a5fa9c5e72edf16e7d",
+    "enhanced_repository": "enhansome/enhansome-grpc",
+    "enhanced_repository_description": null,
+    "title": "Awesome gRPC with stars"
+  }
+}
