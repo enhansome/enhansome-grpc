@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-19T06:22:01Z",
+            "last_commit": "2026-08-19T10:10:10Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45229
+            "stars": 45231
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-19T06:22:01Z",
+            "last_commit": "2026-08-19T10:10:10Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45229
+            "stars": 45231
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-19T06:22:01Z",
+            "last_commit": "2026-08-19T10:10:10Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45229
+            "stars": 45231
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-19T06:22:01Z",
+            "last_commit": "2026-08-19T10:10:10Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45229
+            "stars": 45231
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-19T06:22:01Z",
+            "last_commit": "2026-08-19T10:10:10Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45229
+            "stars": 45231
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-07T05:27:09Z",
             "owner": "grpc",
             "repo": "grpc-web",
-            "stars": 9256
+            "stars": 9257
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-06-17T16:50:46Z",
             "owner": "grpc",
             "repo": "grpc-node",
-            "stars": 4844
+            "stars": 4845
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-17T03:01:03Z",
             "owner": "grpc",
             "repo": "grpc-dotnet",
-            "stars": 4479
+            "stars": 4480
           }
         },
         {
@@ -254,7 +254,7 @@
                 "last_commit": "2026-08-17T12:35:49Z",
                 "owner": "fullstorydev",
                 "repo": "grpcurl",
-                "stars": 12779
+                "stars": 12780
               }
             },
             {
@@ -842,7 +842,7 @@
                 "archived": false,
                 "id": 80164872,
                 "language": "Go",
-                "last_commit": "2026-08-17T06:31:30Z",
+                "last_commit": "2026-08-19T12:12:31Z",
                 "owner": "envoyproxy",
                 "repo": "ratelimit",
                 "stars": 2685
@@ -860,7 +860,7 @@
                 "last_commit": "2026-08-19T04:43:27Z",
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1545
+                "stars": 1573
               }
             },
             {
@@ -1158,7 +1158,7 @@
                 "last_commit": "2026-06-08T03:39:49Z",
                 "owner": "soheilhy",
                 "repo": "cmux",
-                "stars": 2765
+                "stars": 2766
               }
             },
             {
@@ -1320,7 +1320,7 @@
                 "archived": false,
                 "id": 50390111,
                 "language": "Go",
-                "last_commit": "2026-08-18T16:06:15Z",
+                "last_commit": "2026-08-19T09:28:44Z",
                 "owner": "yarpc",
                 "repo": "yarpc-go",
                 "stars": 440
@@ -1784,7 +1784,7 @@
                 "archived": false,
                 "id": 46251204,
                 "language": "Java",
-                "last_commit": "2026-08-19T07:15:38Z",
+                "last_commit": "2026-08-19T08:13:43Z",
                 "owner": "line",
                 "repo": "armeria",
                 "stars": 5133
@@ -2462,7 +2462,7 @@
                 "archived": false,
                 "id": 626940248,
                 "language": "C++",
-                "last_commit": "2026-08-18T15:59:29Z",
+                "last_commit": "2026-08-19T11:22:08Z",
                 "owner": "qt",
                 "repo": "qtgrpc",
                 "stars": 25
@@ -3575,8 +3575,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:54:08.709Z",
+    "last_updated": "2026-08-19T12:36:59.226Z",
     "original_repository": "grpc-ecosystem/awesome-grpc",
+    "original_repository_id": 103694867,
     "original_repository_sha": "eaa8bd9d9e3fdaa3328375a5fa9c5e72edf16e7d",
     "enhanced_repository": "enhansome/enhansome-grpc",
     "enhanced_repository_description": null,
