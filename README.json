@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-21T23:28:56Z",
+            "last_commit": "2026-08-22T21:37:07Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45240
+            "stars": 45243
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-21T23:28:56Z",
+            "last_commit": "2026-08-22T21:37:07Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45240
+            "stars": 45243
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-21T23:28:56Z",
+            "last_commit": "2026-08-22T21:37:07Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45240
+            "stars": 45243
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-21T23:28:56Z",
+            "last_commit": "2026-08-22T21:37:07Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45240
+            "stars": 45243
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-21T23:28:56Z",
+            "last_commit": "2026-08-22T21:37:07Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45240
+            "stars": 45243
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-20T16:50:42Z",
             "owner": "grpc",
             "repo": "grpc-java",
-            "stars": 12059
+            "stars": 12058
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-21T05:36:45Z",
             "owner": "grpc",
             "repo": "grpc-web",
-            "stars": 9254
+            "stars": 9255
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-06-17T16:50:46Z",
             "owner": "grpc",
             "repo": "grpc-node",
-            "stars": 4845
+            "stars": 4844
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-10T14:56:30Z",
             "owner": "grpc",
             "repo": "grpc-swift",
-            "stars": 2248
+            "stars": 2247
           }
         },
         {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-17T19:23:09Z",
                 "owner": "fullstorydev",
                 "repo": "grpcui",
-                "stars": 5920
+                "stars": 5921
               }
             },
             {
@@ -613,7 +613,7 @@
                 "last_commit": "2026-08-17T13:32:48Z",
                 "owner": "fortio",
                 "repo": "fortio",
-                "stars": 3721
+                "stars": 3722
               }
             },
             {
@@ -643,7 +643,7 @@
                 "last_commit": "2026-08-21T13:01:15Z",
                 "owner": "microcks",
                 "repo": "microcks",
-                "stars": 2022
+                "stars": 2023
               }
             },
             {
@@ -830,7 +830,7 @@
                 "last_commit": "2026-08-20T10:17:33Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17016
+                "stars": 17018
               }
             },
             {
@@ -845,7 +845,7 @@
                 "last_commit": "2026-08-21T23:41:01Z",
                 "owner": "envoyproxy",
                 "repo": "ratelimit",
-                "stars": 2685
+                "stars": 2684
               }
             },
             {
@@ -857,10 +857,10 @@
                 "archived": false,
                 "id": 436039945,
                 "language": "Java",
-                "last_commit": "2026-08-22T07:20:59Z",
+                "last_commit": "2026-08-22T22:41:51Z",
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1704
+                "stars": 1706
               }
             },
             {
@@ -1113,7 +1113,7 @@
                 "last_commit": "2024-07-19T01:40:06Z",
                 "owner": "go-kit",
                 "repo": "kit",
-                "stars": 27421
+                "stars": 27422
               }
             },
             {
@@ -1143,7 +1143,7 @@
                 "last_commit": "2026-08-17T19:23:09Z",
                 "owner": "fullstorydev",
                 "repo": "grpcui",
-                "stars": 5920
+                "stars": 5921
               }
             },
             {
@@ -2093,7 +2093,7 @@
                 "last_commit": "2026-08-14T06:23:39Z",
                 "owner": "Cysharp",
                 "repo": "MagicOnion",
-                "stars": 4439
+                "stars": 4440
               }
             },
             {
@@ -2130,7 +2130,7 @@
                 "last_commit": "2026-08-21T15:34:53Z",
                 "owner": "grpc",
                 "repo": "grpc-rust",
-                "stars": 12442
+                "stars": 12443
               }
             },
             {
@@ -2373,7 +2373,7 @@
                 "archived": false,
                 "id": 611115271,
                 "language": "Scala",
-                "last_commit": "2026-08-21T01:24:57Z",
+                "last_commit": "2026-08-22T07:54:53Z",
                 "owner": "http4s",
                 "repo": "http4s-grpc",
                 "stars": 49
@@ -2462,7 +2462,7 @@
                 "archived": false,
                 "id": 626940248,
                 "language": "C++",
-                "last_commit": "2026-08-22T02:57:42Z",
+                "last_commit": "2026-08-23T02:01:01Z",
                 "owner": "qt",
                 "repo": "qtgrpc",
                 "stars": 25
@@ -2634,7 +2634,7 @@
                 "last_commit": "2019-11-21T04:54:36Z",
                 "owner": "campoy",
                 "repo": "justforfunc",
-                "stars": 1495
+                "stars": 1494
               }
             },
             {
@@ -2917,7 +2917,7 @@
                 "last_commit": "2026-08-19T17:16:47Z",
                 "owner": "bufbuild",
                 "repo": "protovalidate",
-                "stars": 1550
+                "stars": 1551
               }
             },
             {
@@ -3082,7 +3082,7 @@
                 "last_commit": "2026-05-09T14:20:48Z",
                 "owner": "devkanro",
                 "repo": "intellij-protobuf-plugin",
-                "stars": 93
+                "stars": 94
               }
             },
             {
@@ -3575,7 +3575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:45:55.267Z",
+    "last_updated": "2026-08-23T07:47:13.530Z",
     "original_repository": "grpc-ecosystem/awesome-grpc",
     "original_repository_id": 103694867,
     "original_repository_sha": "eaa8bd9d9e3fdaa3328375a5fa9c5e72edf16e7d",
