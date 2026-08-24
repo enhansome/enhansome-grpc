@@ -12,7 +12,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-24T06:47:02Z",
+            "last_commit": "2026-08-24T09:10:04Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45251
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-24T06:47:02Z",
+            "last_commit": "2026-08-24T09:10:04Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45251
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-24T06:47:02Z",
+            "last_commit": "2026-08-24T09:10:04Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45251
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-24T06:47:02Z",
+            "last_commit": "2026-08-24T09:10:04Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45251
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-24T06:47:02Z",
+            "last_commit": "2026-08-24T09:10:04Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45251
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 27729907,
             "language": "Go",
-            "last_commit": "2026-08-21T20:29:11Z",
+            "last_commit": "2026-08-24T10:43:32Z",
             "owner": "grpc",
             "repo": "grpc-go",
             "stars": 23031
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 27729926,
             "language": "Java",
-            "last_commit": "2026-08-24T06:09:01Z",
+            "last_commit": "2026-08-24T09:15:55Z",
             "owner": "grpc",
             "repo": "grpc-java",
             "stars": 12059
@@ -254,7 +254,7 @@
                 "last_commit": "2026-08-17T12:35:49Z",
                 "owner": "fullstorydev",
                 "repo": "grpcurl",
-                "stars": 12783
+                "stars": 12784
               }
             },
             {
@@ -610,7 +610,7 @@
                 "archived": false,
                 "id": 106351459,
                 "language": "Go",
-                "last_commit": "2026-08-17T13:32:48Z",
+                "last_commit": "2026-08-24T13:32:37Z",
                 "owner": "fortio",
                 "repo": "fortio",
                 "stars": 3723
@@ -643,7 +643,7 @@
                 "last_commit": "2026-08-23T17:03:19Z",
                 "owner": "microcks",
                 "repo": "microcks",
-                "stars": 2023
+                "stars": 2024
               }
             },
             {
@@ -827,10 +827,10 @@
                 "archived": false,
                 "id": 180481986,
                 "language": "Lua",
-                "last_commit": "2026-08-24T07:17:40Z",
+                "last_commit": "2026-08-24T08:34:19Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17022
+                "stars": 17024
               }
             },
             {
@@ -845,7 +845,7 @@
                 "last_commit": "2026-08-24T06:39:12Z",
                 "owner": "envoyproxy",
                 "repo": "ratelimit",
-                "stars": 2684
+                "stars": 2683
               }
             },
             {
@@ -917,7 +917,7 @@
                 "archived": false,
                 "id": 143216699,
                 "language": "Go",
-                "last_commit": "2026-08-17T13:22:36Z",
+                "last_commit": "2026-08-24T13:22:36Z",
                 "owner": "jnewmano",
                 "repo": "grpc-json-proxy",
                 "stars": 515
@@ -1113,7 +1113,7 @@
                 "last_commit": "2024-07-19T01:40:06Z",
                 "owner": "go-kit",
                 "repo": "kit",
-                "stars": 27423
+                "stars": 27424
               }
             },
             {
@@ -1233,7 +1233,7 @@
                 "last_commit": "2026-03-24T20:48:05Z",
                 "owner": "nats-rpc",
                 "repo": "nrpc",
-                "stars": 707
+                "stars": 708
               }
             },
             {
@@ -1320,7 +1320,7 @@
                 "archived": false,
                 "id": 50390111,
                 "language": "Go",
-                "last_commit": "2026-08-19T18:21:21Z",
+                "last_commit": "2026-08-24T11:43:51Z",
                 "owner": "yarpc",
                 "repo": "yarpc-go",
                 "stars": 440
@@ -2130,7 +2130,7 @@
                 "last_commit": "2026-08-21T15:34:53Z",
                 "owner": "grpc",
                 "repo": "grpc-rust",
-                "stars": 12444
+                "stars": 12446
               }
             },
             {
@@ -2167,6 +2167,28 @@
           "description": null,
           "node_type": "group",
           "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grpc-haskell",
+              "description": "gRPC library binding for Haskell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73947796,
+                "language": "Haskell",
+                "last_commit": "2018-08-31T12:15:37Z",
+                "owner": "grpc",
+                "repo": "grpc-haskell",
+                "stars": 156
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Haskell"
         },
         {
           "children": [
@@ -2219,6 +2241,50 @@
           "description": null,
           "node_type": "group",
           "title": "Erlang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grpc-elixir",
+              "description": "The Elixir implementation of gRPC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63799837,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T13:40:20Z",
+                "owner": "elixir-grpc",
+                "repo": "grpc",
+                "stars": 1521
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elm-protobuf",
+              "description": "Protoc plugin generating elm code from proto definitions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51290988,
+                "language": "Elm",
+                "last_commit": "2022-11-14T03:55:36Z",
+                "owner": "tiziano88",
+                "repo": "elm-protobuf",
+                "stars": 94
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elm"
         },
         {
           "children": [
@@ -2440,6 +2506,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "grpc-perl",
+              "description": "Experimental Perl gRPC library supporting grpc client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52043882,
+                "language": "Perl",
+                "last_commit": "2026-07-24T16:24:22Z",
+                "owner": "joyrex2001",
+                "repo": "grpc-perl",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Perl"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "asio-grpc",
               "description": "Asynchronous gRPC with Boost.Asio or libunifex",
               "children": [],
@@ -2462,7 +2550,7 @@
                 "archived": false,
                 "id": 626940248,
                 "language": "C++",
-                "last_commit": "2026-08-23T02:01:01Z",
+                "last_commit": "2026-08-24T12:38:46Z",
                 "owner": "qt",
                 "repo": "qtgrpc",
                 "stars": 25
@@ -2604,6 +2692,28 @@
           "description": null,
           "node_type": "group",
           "title": "Videos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gRPC and Microservices",
+              "description": "Golang Melbourne - June 2016 Go Hack Night by Jonathan Gomez",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61072607,
+                "language": null,
+                "last_commit": "2019-12-05T21:21:35Z",
+                "owner": "jonog",
+                "repo": "talks",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Slides"
         },
         {
           "children": [
@@ -2892,6 +3002,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Third-Party Add-ons for Protocol Buffers",
+              "description": "List of add-ons for Protocol Buffers in main github repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23357588,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:50:48Z",
+                "owner": "protocolbuffers",
+                "repo": "protobuf",
+                "stars": 71820
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "buffrs",
+              "description": "A modern package manager for protocol buffers and gRPC architectures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653205139,
+                "language": "Rust",
+                "last_commit": "2026-06-27T06:56:00Z",
+                "owner": "helsing-ai",
+                "repo": "buffrs",
+                "stars": 377
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Package Managers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "protoc-gen-doc",
               "description": "Documentation generator plugin for Google Protocol Buffers",
               "children": [],
@@ -2914,7 +3068,7 @@
                 "archived": false,
                 "id": 645494923,
                 "language": "Go",
-                "last_commit": "2026-08-19T17:16:47Z",
+                "last_commit": "2026-08-24T13:23:03Z",
                 "owner": "bufbuild",
                 "repo": "protovalidate",
                 "stars": 1551
@@ -3149,7 +3303,7 @@
                 "last_commit": "2024-08-05T21:36:11Z",
                 "owner": "twitchtv",
                 "repo": "twirp",
-                "stars": 7531
+                "stars": 7530
               }
             },
             {
@@ -3246,6 +3400,28 @@
               "description": null,
               "node_type": "group",
               "title": "GUI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gatling-grpc",
+                  "description": "A Gatling stress test plugin for gRPC.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 144457012,
+                    "language": "Scala",
+                    "last_commit": "2024-02-07T04:35:09Z",
+                    "owner": "phiSgr",
+                    "repo": "gatling-grpc",
+                    "stars": 128
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Testing"
             }
           ],
           "description": null,
@@ -3483,6 +3659,28 @@
               "description": null,
               "node_type": "group",
               "title": "Kotlin"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "QtProtobuf",
+                  "description": "gRPC and Protobuf generator and bindings for the Qt framework",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 194254343,
+                    "language": "C++",
+                    "last_commit": "2024-09-03T21:27:58Z",
+                    "owner": "semlanik",
+                    "repo": "qtprotobuf",
+                    "stars": 177
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C++"
             }
           ],
           "description": null,
@@ -3575,7 +3773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:03:55.617Z",
+    "last_updated": "2026-08-24T13:51:28.338Z",
     "original_repository": "grpc-ecosystem/awesome-grpc",
     "original_repository_id": 103694867,
     "original_repository_sha": "eaa8bd9d9e3fdaa3328375a5fa9c5e72edf16e7d",
