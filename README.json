@@ -12,7 +12,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-25T05:43:32Z",
+            "last_commit": "2026-08-25T06:57:12Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45256
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-25T05:43:32Z",
+            "last_commit": "2026-08-25T06:57:12Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45256
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-25T05:43:32Z",
+            "last_commit": "2026-08-25T06:57:12Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45256
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-25T05:43:32Z",
+            "last_commit": "2026-08-25T06:57:12Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45256
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-25T05:43:32Z",
+            "last_commit": "2026-08-25T06:57:12Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45256
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 27729907,
             "language": "Go",
-            "last_commit": "2026-08-24T15:28:09Z",
+            "last_commit": "2026-08-25T07:25:37Z",
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23032
+            "stars": 23033
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 27729926,
             "language": "Java",
-            "last_commit": "2026-08-24T23:44:15Z",
+            "last_commit": "2026-08-25T07:34:47Z",
             "owner": "grpc",
             "repo": "grpc-java",
             "stars": 12059
@@ -830,7 +830,7 @@
                 "last_commit": "2026-08-24T08:34:19Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17028
+                "stars": 17029
               }
             },
             {
@@ -860,7 +860,7 @@
                 "last_commit": "2026-08-25T05:40:09Z",
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1711
+                "stars": 1714
               }
             },
             {
@@ -3773,7 +3773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:55.223Z",
+    "last_updated": "2026-08-25T07:58:08.045Z",
     "original_repository": "grpc-ecosystem/awesome-grpc",
     "original_repository_id": 103694867,
     "original_repository_sha": "eaa8bd9d9e3fdaa3328375a5fa9c5e72edf16e7d",

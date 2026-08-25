@@ -48,9 +48,9 @@
 
 ## Documentation
 
-* [Technical documentation](https://github.com/grpc/grpc/tree/master/doc) ⭐ 45,256 | 🐛 1,377 | 🌐 C++ | 📅 2026-08-25 - Collection of useful technical documentation
-* [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) ⭐ 45,256 | 🐛 1,377 | 🌐 C++ | 📅 2026-08-25 - Status codes and their use in gRPC
-* [gRPC status code mapping](https://github.com/grpc/grpc/blob/master/doc/http-grpc-status-mapping.md) ⭐ 45,256 | 🐛 1,377 | 🌐 C++ | 📅 2026-08-25 - HTTP to gRPC Status Code Mapping
+* [Technical documentation](https://github.com/grpc/grpc/tree/master/doc) ⭐ 45,256 | 🐛 1,378 | 🌐 C++ | 📅 2026-08-25 - Collection of useful technical documentation
+* [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) ⭐ 45,256 | 🐛 1,378 | 🌐 C++ | 📅 2026-08-25 - Status codes and their use in gRPC
+* [gRPC status code mapping](https://github.com/grpc/grpc/blob/master/doc/http-grpc-status-mapping.md) ⭐ 45,256 | 🐛 1,378 | 🌐 C++ | 📅 2026-08-25 - HTTP to gRPC Status Code Mapping
 * [grpc-errors](https://github.com/avinassh/grpc-errors) ⭐ 588 | 🐛 12 | 🌐 C# | 📅 2023-10-25 - Code examples in each language on how to return and handle error statuses.
 * [Website](https://grpc.io/) - Official documentation, libraries, resources, samples and FAQ
 * [API Design Guide](https://cloud.google.com/apis/design/) - Google Cloud API Design Guide useful for gRPC API design insights
@@ -63,10 +63,10 @@
 
 ## Official Libraries and Tools
 
-* [gRPC Core](https://github.com/grpc/grpc) ⭐ 45,256 | 🐛 1,377 | 🌐 C++ | 📅 2026-08-25 - C, C++, Ruby, Node.js, Python, PHP, C#, Objective-C
-* [grpc\_cli](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md) ⭐ 45,256 | 🐛 1,377 | 🌐 C++ | 📅 2026-08-25 - gRPC CLI tool
-* [gRPC Go](https://github.com/grpc/grpc-go) ⭐ 23,032 | 🐛 135 | 🌐 Go | 📅 2026-08-24 - The Go language implementation of gRPC. HTTP/2 based RPC
-* [gRPC Java](https://github.com/grpc/grpc-java) ⭐ 12,059 | 🐛 528 | 🌐 Java | 📅 2026-08-24 - The Java gRPC implementation. HTTP/2 based RPC
+* [gRPC Core](https://github.com/grpc/grpc) ⭐ 45,256 | 🐛 1,378 | 🌐 C++ | 📅 2026-08-25 - C, C++, Ruby, Node.js, Python, PHP, C#, Objective-C
+* [grpc\_cli](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md) ⭐ 45,256 | 🐛 1,378 | 🌐 C++ | 📅 2026-08-25 - gRPC CLI tool
+* [gRPC Go](https://github.com/grpc/grpc-go) ⭐ 23,033 | 🐛 136 | 🌐 Go | 📅 2026-08-25 - The Go language implementation of gRPC. HTTP/2 based RPC
+* [gRPC Java](https://github.com/grpc/grpc-java) ⭐ 12,059 | 🐛 527 | 🌐 Java | 📅 2026-08-25 - The Java gRPC implementation. HTTP/2 based RPC
 * [gRPC Web](https://github.com/grpc/grpc-web) ⭐ 9,255 | 🐛 170 | 🌐 JavaScript | 📅 2026-08-21 - gRPC for Web Clients
 * [gRPC Node.js](https://github.com/grpc/grpc-node) ⭐ 4,843 | 🐛 238 | 🌐 TypeScript | 📅 2026-06-17 - gRPC for Node.js
 * [gRPC C#](https://github.com/grpc/grpc-dotnet) ⭐ 4,481 | 🐛 176 | 🌐 C# | 📅 2026-08-17 - The C# language implementation of gRPC
@@ -145,9 +145,9 @@
 
 ### Other
 
-* [APISIX](https://github.com/apache/apisix) ⭐ 17,028 | 🐛 255 | 🌐 Lua | 📅 2026-08-24 - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
+* [APISIX](https://github.com/apache/apisix) ⭐ 17,029 | 🐛 256 | 🌐 Lua | 📅 2026-08-24 - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
 * [ratelimit](https://github.com/lyft/ratelimit) ⭐ 2,683 | 🐛 36 | 🌐 Go | 📅 2026-08-24 - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
-* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,711 | 🐛 221 | 🌐 Java | 📅 2026-08-25 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,714 | 🐛 221 | 🌐 Java | 📅 2026-08-25 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 * [grpc-proxy](https://github.com/mwitkow/grpc-proxy) ⭐ 1,048 | 🐛 35 | 🌐 Go | 📅 2026-03-18 - gRPC reverse proxy with the goal of making it easy to expose gRPC services over the internet
 * [kafka-pixy](https://github.com/mailgun/kafka-pixy) ⭐ 789 | 🐛 17 | 🌐 Go | 📅 2024-04-23 - gRPC/REST proxy for Kafka
 * [docker-protoc](https://github.com/namely/docker-protoc) ⭐ 743 | 🐛 40 | 🌐 Shell | 📅 2026-06-09 - Dockerized protoc, grpc-gateway, and grpc\_cli commands bundled with Google API libraries
