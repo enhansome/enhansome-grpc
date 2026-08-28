@@ -12,11 +12,12 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-27T18:02:05Z",
+            "last_commit": "2026-08-28T17:03:01Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45267
-          }
+            "stars": 45271
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-27T18:02:05Z",
+            "last_commit": "2026-08-28T17:03:01Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45267
-          }
+            "stars": 45271
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-27T18:02:05Z",
+            "last_commit": "2026-08-28T17:03:01Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45267
-          }
+            "stars": 45271
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "avinassh",
             "repo": "grpc-errors",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         }
       ],
       "title": "Documentation"
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-27T18:02:05Z",
+            "last_commit": "2026-08-28T17:03:01Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45267
-          }
+            "stars": 45271
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-27T18:02:05Z",
+            "last_commit": "2026-08-28T17:03:01Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45267
-          }
+            "stars": 45271
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-08-27T13:16:15Z",
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23040
-          }
+            "stars": 23041
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-08-27T08:22:03Z",
             "owner": "grpc",
             "repo": "grpc-java",
-            "stars": 12060
-          }
+            "stars": 12061
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "grpc",
             "repo": "grpc-web",
             "stars": 9256
-          }
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 99148158,
             "language": "TypeScript",
-            "last_commit": "2026-06-17T16:50:46Z",
+            "last_commit": "2026-08-28T18:27:10Z",
             "owner": "grpc",
             "repo": "grpc-node",
             "stars": 4844
-          }
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "grpc",
             "repo": "grpc-dotnet",
             "stars": 4482
-          }
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "grpc",
             "repo": "grpc-swift",
             "stars": 2247
-          }
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "grpc",
             "repo": "grpc-kotlin",
             "stars": 1297
-          }
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "grpc",
             "repo": "grpc-dart",
             "stars": 892
-          }
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "grpc",
             "repo": "grpc-community",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T19:26:14.406Z"
         }
       ],
       "title": "Official Libraries and Tools"
@@ -251,11 +266,12 @@
                 "archived": false,
                 "id": 111431261,
                 "language": "Go",
-                "last_commit": "2026-08-17T12:35:49Z",
+                "last_commit": "2026-08-28T18:23:04Z",
                 "owner": "fullstorydev",
                 "repo": "grpcurl",
-                "stars": 12789
-              }
+                "stars": 12790
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -269,8 +285,9 @@
                 "last_commit": "2023-12-26T08:27:59Z",
                 "owner": "ktr0731",
                 "repo": "evans",
-                "stars": 4492
-              }
+                "stars": 4493
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -285,7 +302,8 @@
                 "owner": "njpatel",
                 "repo": "grpcc",
                 "stars": 1133
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -300,7 +318,8 @@
                 "owner": "grpc-ecosystem",
                 "repo": "polyglot",
                 "stars": 535
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -315,7 +334,8 @@
                 "owner": "seamia",
                 "repo": "protodot",
                 "stars": 469
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -326,11 +346,12 @@
                 "archived": false,
                 "id": 238736361,
                 "language": "Go",
-                "last_commit": "2026-08-24T20:12:49Z",
+                "last_commit": "2026-08-28T01:42:00Z",
                 "owner": "vadimi",
                 "repo": "grpc-client-cli",
                 "stars": 311
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -345,7 +366,8 @@
                 "owner": "grpc-ecosystem",
                 "repo": "grpcdebug",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -360,7 +382,8 @@
                 "owner": "IBM",
                 "repo": "gWhisper",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -375,7 +398,8 @@
                 "owner": "sonatard",
                 "repo": "proto-to-postman",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -390,7 +414,8 @@
                 "owner": "bojand",
                 "repo": "gcall",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -405,7 +430,8 @@
                 "owner": "productsupcom",
                 "repo": "protoc-gen-proto2asciidoc",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -420,7 +446,8 @@
                 "owner": "sylk-build",
                 "repo": "sylk",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -438,11 +465,12 @@
                 "archived": false,
                 "id": 160253491,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T19:23:09Z",
+                "last_commit": "2026-08-28T18:33:22Z",
                 "owner": "fullstorydev",
                 "repo": "grpcui",
                 "stars": 5922
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -457,7 +485,8 @@
                 "owner": "rogchap",
                 "repo": "wombat",
                 "stars": 1431
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -472,7 +501,8 @@
                 "owner": "warmuuh",
                 "repo": "milkman",
                 "stars": 1339
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -486,8 +516,9 @@
                 "last_commit": "2024-05-26T11:37:45Z",
                 "owner": "getezy",
                 "repo": "ezy",
-                "stars": 1039
-              }
+                "stars": 1040
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -502,7 +533,8 @@
                 "owner": "gusaul",
                 "repo": "grpcox",
                 "stars": 712
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -517,7 +549,8 @@
                 "owner": "crossoverJie",
                 "repo": "ptg",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -532,7 +565,8 @@
                 "owner": "oslabs-beta",
                 "repo": "Yodelay",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -547,7 +581,8 @@
                 "owner": "muninrpc",
                 "repo": "muninrpc",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -562,7 +597,8 @@
                 "owner": "Forest33",
                 "repo": "warthog",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -577,7 +613,8 @@
                 "owner": "kfwerf",
                 "repo": "delivery",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -592,7 +629,8 @@
                 "owner": "Kalisto-Application",
                 "repo": "kalisto",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -614,7 +652,8 @@
                 "owner": "fortio",
                 "repo": "fortio",
                 "stars": 3722
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -628,8 +667,9 @@
                 "last_commit": "2026-08-01T03:42:55Z",
                 "owner": "bojand",
                 "repo": "ghz",
-                "stars": 3348
-              }
+                "stars": 3349
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -643,8 +683,9 @@
                 "last_commit": "2026-08-25T16:26:27Z",
                 "owner": "microcks",
                 "repo": "microcks",
-                "stars": 2027
-              }
+                "stars": 2029
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -659,7 +700,8 @@
                 "owner": "stepci",
                 "repo": "stepci",
                 "stars": 1868
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -674,7 +716,8 @@
                 "owner": "bradleyjkemp",
                 "repo": "grpc-tools",
                 "stars": 1238
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -689,7 +732,8 @@
                 "owner": "LesnyRumcajs",
                 "repo": "grpc_bench",
                 "stars": 938
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -704,7 +748,8 @@
                 "owner": "grpc-swagger",
                 "repo": "grpc-swagger",
                 "stars": 441
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -719,7 +764,8 @@
                 "owner": "testinggospels",
                 "repo": "camouflage",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -734,7 +780,8 @@
                 "owner": "ButterCam",
                 "repo": "Mediator",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -749,7 +796,8 @@
                 "owner": "rmedvedev",
                 "repo": "grpcdump",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -764,7 +812,8 @@
                 "owner": "BuoyantIO",
                 "repo": "strest-grpc",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -779,7 +828,8 @@
                 "owner": "emicklei",
                 "repo": "hazana",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -794,7 +844,8 @@
                 "owner": "zalopay-oss",
                 "repo": "jmeter-grpc-plugin",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -809,7 +860,8 @@
                 "owner": "karatelabs",
                 "repo": "karate-examples",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -827,11 +879,12 @@
                 "archived": false,
                 "id": 180481986,
                 "language": "Lua",
-                "last_commit": "2026-08-27T10:26:55Z",
+                "last_commit": "2026-08-28T00:50:46Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17042
-              }
+                "stars": 17047
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -846,7 +899,8 @@
                 "owner": "envoyproxy",
                 "repo": "ratelimit",
                 "stars": 2687
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -857,11 +911,12 @@
                 "archived": false,
                 "id": 436039945,
                 "language": "Java",
-                "last_commit": "2026-08-27T17:27:59Z",
+                "last_commit": "2026-08-28T14:25:52Z",
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1711
-              }
+                "stars": 1713
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -876,7 +931,8 @@
                 "owner": "mwitkow",
                 "repo": "grpc-proxy",
                 "stars": 1048
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -891,7 +947,8 @@
                 "owner": "mailgun",
                 "repo": "kafka-pixy",
                 "stars": 789
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -906,7 +963,8 @@
                 "owner": "namely",
                 "repo": "docker-protoc",
                 "stars": 743
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -921,7 +979,8 @@
                 "owner": "jnewmano",
                 "repo": "grpc-json-proxy",
                 "stars": 515
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -932,11 +991,12 @@
                 "archived": false,
                 "id": 72884003,
                 "language": "Go",
-                "last_commit": "2026-08-26T00:15:39Z",
+                "last_commit": "2026-08-28T16:20:56Z",
                 "owner": "moul",
                 "repo": "protoc-gen-gotemplate",
                 "stars": 441
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -951,7 +1011,8 @@
                 "owner": "mercari",
                 "repo": "grpc-http-proxy",
                 "stars": 372
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -966,7 +1027,8 @@
                 "owner": "nxenon",
                 "repo": "grpc-pentest-suite",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -981,7 +1043,8 @@
                 "owner": "markvincze",
                 "repo": "sabledocs",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -996,7 +1059,8 @@
                 "owner": "Kuadrant",
                 "repo": "limitador",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1011,7 +1075,8 @@
                 "owner": "rookie-ninja",
                 "repo": "rk-grpc",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1026,7 +1091,8 @@
                 "owner": "gdong42",
                 "repo": "grpc-mate",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1041,7 +1107,8 @@
                 "owner": "ericbets",
                 "repo": "danby",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1123,8 @@
                 "owner": "joa",
                 "repo": "jawlb",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1139,8 @@
                 "owner": "90dy",
                 "repo": "protoc-gen-hbs",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1086,7 +1155,8 @@
                 "owner": "siyanew",
                 "repo": "grpcson",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -1114,7 +1184,8 @@
                 "owner": "go-kit",
                 "repo": "kit",
                 "stars": 27422
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1129,7 +1200,8 @@
                 "owner": "smallnest",
                 "repo": "rpcx",
                 "stars": 8312
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1140,11 +1212,12 @@
                 "archived": false,
                 "id": 160253491,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T19:23:09Z",
+                "last_commit": "2026-08-28T18:33:22Z",
                 "owner": "fullstorydev",
                 "repo": "grpcui",
                 "stars": 5922
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1159,7 +1232,8 @@
                 "owner": "soheilhy",
                 "repo": "cmux",
                 "stars": 2767
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1174,7 +1248,8 @@
                 "owner": "lileio",
                 "repo": "lile",
                 "stars": 1497
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1185,11 +1260,12 @@
                 "archived": false,
                 "id": 81850273,
                 "language": "Go",
-                "last_commit": "2026-07-29T15:52:52Z",
+                "last_commit": "2026-08-28T18:11:21Z",
                 "owner": "jhump",
                 "repo": "protoreflect",
                 "stars": 1487
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1204,7 +1280,8 @@
                 "owner": "mwitkow",
                 "repo": "grpc-proxy",
                 "stars": 1048
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1219,7 +1296,8 @@
                 "owner": "tokopedia",
                 "repo": "gripmock",
                 "stars": 748
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1234,7 +1312,8 @@
                 "owner": "nats-rpc",
                 "repo": "nrpc",
                 "stars": 708
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1249,7 +1328,8 @@
                 "owner": "go-masonry",
                 "repo": "mortar",
                 "stars": 677
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1264,7 +1344,8 @@
                 "owner": "containerd",
                 "repo": "ttrpc",
                 "stars": 661
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1278,8 +1359,9 @@
                 "last_commit": "2026-04-01T09:53:15Z",
                 "owner": "sercand",
                 "repo": "kuberesolver",
-                "stars": 640
-              }
+                "stars": 641
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1294,7 +1376,8 @@
                 "owner": "johanbrandhorst",
                 "repo": "grpc-gateway-boilerplate",
                 "stars": 497
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1309,7 +1392,8 @@
                 "owner": "SafetyCulture",
                 "repo": "grpc-web-devtools",
                 "stars": 441
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1324,7 +1408,8 @@
                 "owner": "yarpc",
                 "repo": "yarpc-go",
                 "stars": 440
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1339,7 +1424,8 @@
                 "owner": "x-izumin",
                 "repo": "grapi",
                 "stars": 429
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1354,7 +1440,8 @@
                 "owner": "mbobakov",
                 "repo": "grpc-consul-resolver",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1369,7 +1456,8 @@
                 "owner": "sashabaranov",
                 "repo": "pike",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1384,7 +1472,8 @@
                 "owner": "utrack",
                 "repo": "clay",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1395,11 +1484,12 @@
                 "archived": false,
                 "id": 121870635,
                 "language": "Go",
-                "last_commit": "2026-08-14T18:39:31Z",
+                "last_commit": "2026-08-28T18:22:34Z",
                 "owner": "fullstorydev",
                 "repo": "grpchan",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1414,7 +1504,8 @@
                 "owner": "apssouza22",
                 "repo": "grpc-production-go",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1429,7 +1520,8 @@
                 "owner": "bold-commerce",
                 "repo": "protoc-gen-struct-transformer",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1444,7 +1536,8 @@
                 "owner": "walterwanderley",
                 "repo": "sqlc-grpc",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1459,7 +1552,8 @@
                 "owner": "Protocol-Lattice",
                 "repo": "thunder",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1474,7 +1568,8 @@
                 "owner": "jhump",
                 "repo": "goprotoc",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1489,7 +1584,8 @@
                 "owner": "piotrkowalczuk",
                 "repo": "promgrpc",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1504,7 +1600,8 @@
                 "owner": "carvalhorr",
                 "repo": "protoc-gen-mock",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1519,7 +1616,8 @@
                 "owner": "rantav",
                 "repo": "go-grpc-channelz",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1534,7 +1632,8 @@
                 "owner": "glerchundi",
                 "repo": "grpc-boomerang",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1545,11 +1644,12 @@
                 "archived": false,
                 "id": 450009017,
                 "language": "Go",
-                "last_commit": "2026-08-20T19:27:11Z",
+                "last_commit": "2026-08-28T18:06:21Z",
                 "owner": "idodod",
                 "repo": "protoc-gen-fieldmask",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1564,7 +1664,8 @@
                 "owner": "kw510",
                 "repo": "protoc-gen-go-mock",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -1586,7 +1687,8 @@
                 "owner": "malijs",
                 "repo": "mali",
                 "stars": 889
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1601,7 +1703,8 @@
                 "owner": "firecomm",
                 "repo": "firecomm",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1616,7 +1719,8 @@
                 "owner": "bojand",
                 "repo": "grpc-caller",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1631,7 +1735,8 @@
                 "owner": "konsumer",
                 "repo": "grpc-dynamic-gateway",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1646,7 +1751,8 @@
                 "owner": "carlessistare",
                 "repo": "grpc-promise",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1661,7 +1767,8 @@
                 "owner": "googleapis",
                 "repo": "nodejs-proto-files",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1676,7 +1783,8 @@
                 "owner": "konsumer",
                 "repo": "node-protoc-plugin",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1691,7 +1799,8 @@
                 "owner": "redhoyasa",
                 "repo": "grpc-reflection-js",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1706,7 +1815,8 @@
                 "owner": "bojand",
                 "repo": "grpc-inspect",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1721,7 +1831,8 @@
                 "owner": "bojand",
                 "repo": "grpc-create-error",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1736,7 +1847,8 @@
                 "owner": "bojand",
                 "repo": "grpc-create-metadata",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1751,7 +1863,8 @@
                 "owner": "bojand",
                 "repo": "grpc-error",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1766,7 +1879,8 @@
                 "owner": "ortoo",
                 "repo": "grpc-errors",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -1784,11 +1898,12 @@
                 "archived": false,
                 "id": 46251204,
                 "language": "Java",
-                "last_commit": "2026-08-25T07:59:29Z",
+                "last_commit": "2026-08-28T01:04:46Z",
                 "owner": "line",
                 "repo": "armeria",
                 "stars": 5133
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1802,8 +1917,9 @@
                 "last_commit": "2026-07-30T10:54:33Z",
                 "owner": "grpc-ecosystem",
                 "repo": "grpc-spring",
-                "stars": 3708
-              }
+                "stars": 3709
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1818,7 +1934,8 @@
                 "owner": "LogNet",
                 "repo": "grpc-spring-boot-starter",
                 "stars": 2258
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1833,7 +1950,8 @@
                 "owner": "salesforce",
                 "repo": "grpc-java-contrib",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1848,7 +1966,8 @@
                 "owner": "Fadelis",
                 "repo": "grpcmock",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1863,7 +1982,8 @@
                 "owner": "googleapis",
                 "repo": "sdk-platform-java",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1878,7 +1998,8 @@
                 "owner": "Fadelis",
                 "repo": "protoc-gen-java-optional",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -1900,7 +2021,8 @@
                 "owner": "bigcommerce",
                 "repo": "gruf",
                 "stars": 650
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1915,7 +2037,8 @@
                 "owner": "googleapis",
                 "repo": "gapic-generator-ruby",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -1937,7 +2060,8 @@
                 "owner": "danielgtaylor",
                 "repo": "python-betterproto",
                 "stars": 1770
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1952,7 +2076,8 @@
                 "owner": "vmagamedov",
                 "repo": "grpclib",
                 "stars": 988
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1967,7 +2092,8 @@
                 "owner": "fengsp",
                 "repo": "django-grpc-framework",
                 "stars": 407
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1981,8 +2107,9 @@
                 "last_commit": "2025-09-10T09:05:06Z",
                 "owner": "bali-framework",
                 "repo": "bali",
-                "stars": 366
-              }
+                "stars": 365
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -1993,11 +2120,12 @@
                 "archived": false,
                 "id": 166471167,
                 "language": "Python",
-                "last_commit": "2026-08-18T01:56:25Z",
+                "last_commit": "2026-08-28T13:46:25Z",
                 "owner": "gluk-w",
                 "repo": "django-grpc",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2012,7 +2140,8 @@
                 "owner": "kataev",
                 "repo": "pytest-grpc",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2027,7 +2156,8 @@
                 "owner": "GuangTianLi",
                 "repo": "grpcalchemy",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2042,7 +2172,8 @@
                 "owner": "OlegYurchik",
                 "repo": "fast-grpc",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2057,7 +2188,8 @@
                 "owner": "grpc-requests",
                 "repo": "grpc_requests",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2072,7 +2204,8 @@
                 "owner": "dhilipsiva",
                 "repo": "garuda",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2090,11 +2223,12 @@
                 "archived": false,
                 "id": 76100575,
                 "language": "C#",
-                "last_commit": "2026-08-26T11:47:55Z",
+                "last_commit": "2026-08-28T03:18:30Z",
                 "owner": "Cysharp",
                 "repo": "MagicOnion",
-                "stars": 4443
-              }
+                "stars": 4444
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2109,7 +2243,8 @@
                 "owner": "thomaswormald",
                 "repo": "grpc-browser",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2127,11 +2262,12 @@
                 "archived": false,
                 "id": 201517171,
                 "language": "Rust",
-                "last_commit": "2026-08-26T18:06:58Z",
+                "last_commit": "2026-08-28T14:45:16Z",
                 "owner": "grpc",
                 "repo": "grpc-rust",
-                "stars": 12451
-              }
+                "stars": 12452
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2146,7 +2282,8 @@
                 "owner": "tikv",
                 "repo": "grpc-rs",
                 "stars": 1852
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2161,7 +2298,8 @@
                 "owner": "c410-f3r",
                 "repo": "wtx",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2183,7 +2321,8 @@
                 "owner": "grpc",
                 "repo": "grpc-haskell",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2205,7 +2344,8 @@
                 "owner": "tsloughter",
                 "repo": "grpcbox",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2220,7 +2360,8 @@
                 "owner": "Bluehouse-Technology",
                 "repo": "grpc",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2235,7 +2376,8 @@
                 "owner": "synrc",
                 "repo": "rpc",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2257,7 +2399,8 @@
                 "owner": "elixir-grpc",
                 "repo": "grpc",
                 "stars": 1522
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2279,7 +2422,8 @@
                 "owner": "tiziano88",
                 "repo": "elm-protobuf",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2301,7 +2445,8 @@
                 "owner": "stephenh",
                 "repo": "ts-proto",
                 "stars": 2591
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2316,7 +2461,8 @@
                 "owner": "improbable-eng",
                 "repo": "ts-protoc-gen",
                 "stars": 1395
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2331,7 +2477,8 @@
                 "owner": "timostamm",
                 "repo": "protobuf-ts",
                 "stars": 1343
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2346,7 +2493,8 @@
                 "owner": "deeplay-io",
                 "repo": "nice-grpc",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2361,7 +2509,8 @@
                 "owner": "badsyntax",
                 "repo": "grpc-js-typescript",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2375,8 +2524,9 @@
                 "last_commit": "2023-03-24T00:21:10Z",
                 "owner": "grpc-ecosystem",
                 "repo": "protoc-gen-grpc-gateway-ts",
-                "stars": 162
-              }
+                "stars": 163
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2391,7 +2541,8 @@
                 "owner": "ButterCam",
                 "repo": "sisyphus.js",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2409,11 +2560,12 @@
                 "archived": false,
                 "id": 127528015,
                 "language": "Scala",
-                "last_commit": "2026-08-27T07:35:49Z",
+                "last_commit": "2026-08-28T03:13:22Z",
                 "owner": "typelevel",
                 "repo": "fs2-grpc",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2428,7 +2580,8 @@
                 "owner": "scalapb",
                 "repo": "zio-grpc",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2443,7 +2596,8 @@
                 "owner": "http4s",
                 "repo": "http4s-grpc",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2465,7 +2619,8 @@
                 "owner": "marcoferrer",
                 "repo": "kroto-plus",
                 "stars": 492
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2480,7 +2635,8 @@
                 "owner": "rouzwawi",
                 "repo": "grpc-kotlin",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2495,7 +2651,8 @@
                 "owner": "ButterCam",
                 "repo": "sisyphus",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2517,7 +2674,8 @@
                 "owner": "joyrex2001",
                 "repo": "grpc-perl",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2539,7 +2697,8 @@
                 "owner": "Tradias",
                 "repo": "asio-grpc",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2550,11 +2709,12 @@
                 "archived": false,
                 "id": 626940248,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:47:20Z",
+                "last_commit": "2026-08-28T18:56:35Z",
                 "owner": "qt",
                 "repo": "qtgrpc",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2569,7 +2729,8 @@
                 "owner": "illegal-instruction-co",
                 "repo": "sugar-proto",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2591,7 +2752,8 @@
                 "owner": "ballerina-platform",
                 "repo": "module-ballerina-grpc",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2606,7 +2768,8 @@
                 "owner": "ballerina-platform",
                 "repo": "protoc-tools",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2634,7 +2797,8 @@
                 "owner": "amsokol",
                 "repo": "go-grpc-http-rest-microservice-tutorial",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2649,7 +2813,8 @@
                 "owner": "iheanyi",
                 "repo": "go-grpc-graphql-simple-example",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2671,7 +2836,8 @@
                 "owner": "nicholasjackson",
                 "repo": "building-microservices-youtube",
                 "stars": 1168
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2686,7 +2852,8 @@
                 "owner": "jtattermusch",
                 "repo": "grpc-loadbalancing-kubernetes-examples",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2708,7 +2875,8 @@
                 "owner": "jonog",
                 "repo": "talks",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -2730,7 +2898,8 @@
                 "owner": "vietnam-devs",
                 "repo": "coolstore-microservices",
                 "stars": 2531
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2745,7 +2914,8 @@
                 "owner": "campoy",
                 "repo": "justforfunc",
                 "stars": 1494
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2760,7 +2930,8 @@
                 "owner": "harlow",
                 "repo": "go-micro-services",
                 "stars": 1092
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2775,7 +2946,8 @@
                 "owner": "harlow",
                 "repo": "go-micro-services",
                 "stars": 1092
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2790,7 +2962,8 @@
                 "owner": "lucperkins",
                 "repo": "colossus",
                 "stars": 1043
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2805,7 +2978,8 @@
                 "owner": "saturnism",
                 "repo": "grpc-by-example-java",
                 "stars": 885
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2820,7 +2994,8 @@
                 "owner": "vladimirvivien",
                 "repo": "go-grpc",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2835,7 +3010,8 @@
                 "owner": "mortenson",
                 "repo": "grpc-game-example",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2850,7 +3026,8 @@
                 "owner": "lixd",
                 "repo": "grpc-go-example",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2865,7 +3042,8 @@
                 "owner": "ridha",
                 "repo": "grpc-streaming-demo",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2880,7 +3058,8 @@
                 "owner": "GoogleCloudPlatform",
                 "repo": "gifinator",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2895,7 +3074,8 @@
                 "owner": "grpc-ecosystem",
                 "repo": "grpc-simon-says",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2910,7 +3090,8 @@
                 "owner": "rakyll",
                 "repo": "opencensus-grpc-demo",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2925,7 +3106,8 @@
                 "owner": "rootxjs",
                 "repo": "grpc-goat",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2940,7 +3122,8 @@
                 "owner": "shuza",
                 "repo": "kubernetes-go-grpc",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2955,7 +3138,8 @@
                 "owner": "feuyeux",
                 "repo": "hello-grpc",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2970,7 +3154,8 @@
                 "owner": "ekhabarov",
                 "repo": "bazel-k8s-envoy",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -2985,7 +3170,8 @@
                 "owner": "ballerina-guides",
                 "repo": "gcp-microservices-demo",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -3009,11 +3195,12 @@
                 "archived": false,
                 "id": 23357588,
                 "language": "C++",
-                "last_commit": "2026-08-27T17:42:43Z",
+                "last_commit": "2026-08-28T19:14:32Z",
                 "owner": "protocolbuffers",
                 "repo": "protobuf",
-                "stars": 71824
-              }
+                "stars": 71825
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -3035,7 +3222,8 @@
                 "owner": "helsing-ai",
                 "repo": "buffrs",
                 "stars": 377
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -3057,7 +3245,8 @@
                 "owner": "pseudomuto",
                 "repo": "protoc-gen-doc",
                 "stars": 2838
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3072,7 +3261,8 @@
                 "owner": "bufbuild",
                 "repo": "protovalidate",
                 "stars": 1552
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3087,7 +3277,8 @@
                 "owner": "mwitkow",
                 "repo": "go-proto-validators",
                 "stars": 1101
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3102,7 +3293,8 @@
                 "owner": "nytimes",
                 "repo": "openapi2proto",
                 "stars": 1002
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3117,7 +3309,8 @@
                 "owner": "googleapis",
                 "repo": "api-linter",
                 "stars": 766
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3132,7 +3325,8 @@
                 "owner": "yoheimuta",
                 "repo": "protolint",
                 "stars": 697
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3147,7 +3341,8 @@
                 "owner": "nilslice",
                 "repo": "protolock",
                 "stars": 631
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3162,7 +3357,8 @@
                 "owner": "ckaznocha",
                 "repo": "protoc-gen-lint",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3177,7 +3373,8 @@
                 "owner": "bold-commerce",
                 "repo": "protoc-gen-struct-transformer",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3192,7 +3389,8 @@
                 "owner": "128technology",
                 "repo": "protobuf_dissector",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3207,7 +3405,8 @@
                 "owner": "sourcegraph",
                 "repo": "prototools",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3222,7 +3421,8 @@
                 "owner": "jackskj",
                 "repo": "protoc-gen-map",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3237,7 +3437,8 @@
                 "owner": "devkanro",
                 "repo": "intellij-protobuf-plugin",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3252,7 +3453,8 @@
                 "owner": "tmc",
                 "repo": "protoc-gen-apidocs",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3267,7 +3469,8 @@
                 "owner": "lisroach",
                 "repo": "Protoxygen",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3282,7 +3485,8 @@
                 "owner": "ekalinin",
                 "repo": "pbvm",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -3304,7 +3508,8 @@
                 "owner": "twitchtv",
                 "repo": "twirp",
                 "stars": 7530
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             },
             {
               "node_type": "item",
@@ -3319,7 +3524,8 @@
                 "owner": "glycerine",
                 "repo": "greenpack",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T19:26:14.406Z"
             }
           ],
           "description": null,
@@ -3349,7 +3555,8 @@
                     "owner": "bloomrpc",
                     "repo": "bloomrpc",
                     "stars": 8983
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3364,7 +3571,8 @@
                     "owner": "troylelandshields",
                     "repo": "omgrpc",
                     "stars": 462
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3379,7 +3587,8 @@
                     "owner": "gogo",
                     "repo": "letmegrpc",
                     "stars": 425
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3394,7 +3603,8 @@
                     "owner": "pashkatrick",
                     "repo": "Plumber",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3416,7 +3626,8 @@
                     "owner": "phiSgr",
                     "repo": "gatling-grpc",
                     "stars": 128
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3445,7 +3656,8 @@
                     "owner": "improbable-eng",
                     "repo": "grpc-web",
                     "stars": 4473
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3460,7 +3672,8 @@
                     "owner": "src-d",
                     "repo": "proteus",
                     "stars": 735
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3475,7 +3688,8 @@
                     "owner": "google",
                     "repo": "go-microservice-helpers",
                     "stars": 417
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3490,7 +3704,8 @@
                     "owner": "bsm",
                     "repo": "grpclb",
                     "stars": 259
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3505,7 +3720,8 @@
                     "owner": "fiorix",
                     "repo": "protoc-gen-cobra",
                     "stars": 184
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3527,7 +3743,8 @@
                     "owner": "paralin",
                     "repo": "grpc-bus",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3542,7 +3759,8 @@
                     "owner": "litichevskiydv",
                     "repo": "grpc-host-builder",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3564,7 +3782,8 @@
                     "owner": "google",
                     "repo": "rejoiner",
                     "stars": 3658
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3579,7 +3798,8 @@
                     "owner": "salesforce",
                     "repo": "reactive-grpc",
                     "stars": 840
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3601,7 +3821,8 @@
                     "owner": "stepancheg",
                     "repo": "grpc-rust",
                     "stars": 1367
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3616,7 +3837,8 @@
                     "owner": "tower-rs",
                     "repo": "tower-grpc",
                     "stars": 563
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3638,7 +3860,8 @@
                     "owner": "googleapis",
                     "repo": "gapic-generator-kotlin",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3653,7 +3876,8 @@
                     "owner": "google",
                     "repo": "grpc-kapt",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3675,7 +3899,8 @@
                     "owner": "semlanik",
                     "repo": "qtprotobuf",
                     "stars": 177
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3703,8 +3928,9 @@
                     "last_commit": "2022-03-01T12:56:26Z",
                     "owner": "uber",
                     "repo": "prototool",
-                    "stars": 5031
-                  }
+                    "stars": 5030
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3719,7 +3945,8 @@
                     "owner": "jackskj",
                     "repo": "protoc-gen-map",
                     "stars": 132
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3741,7 +3968,8 @@
                     "owner": "gogo",
                     "repo": "protobuf",
                     "stars": 5664
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 },
                 {
                   "node_type": "item",
@@ -3756,7 +3984,8 @@
                     "owner": "uber",
                     "repo": "tchannel",
                     "stars": 1149
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:26:14.406Z"
                 }
               ],
               "description": null,
@@ -3773,7 +4002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:17:06.955Z",
+    "last_updated": "2026-08-28T19:26:14.406Z",
     "original_repository_info": {
       "archived": false,
       "id": 103694867,
