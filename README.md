@@ -48,9 +48,9 @@
 
 ## Documentation
 
-* [Technical documentation](https://github.com/grpc/grpc/tree/master/doc) ⭐ 45,391 | 🐛 1,354 | 🌐 C++ | 📅 2026-10-19 - Collection of useful technical documentation
-* [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) ⭐ 45,391 | 🐛 1,354 | 🌐 C++ | 📅 2026-10-19 - Status codes and their use in gRPC
-* [gRPC status code mapping](https://github.com/grpc/grpc/blob/master/doc/http-grpc-status-mapping.md) ⭐ 45,391 | 🐛 1,354 | 🌐 C++ | 📅 2026-10-19 - HTTP to gRPC Status Code Mapping
+* [Technical documentation](https://github.com/grpc/grpc/tree/master/doc) ⭐ 45,394 | 🐛 1,358 | 🌐 C++ | 📅 2026-10-20 - Collection of useful technical documentation
+* [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) ⭐ 45,394 | 🐛 1,358 | 🌐 C++ | 📅 2026-10-20 - Status codes and their use in gRPC
+* [gRPC status code mapping](https://github.com/grpc/grpc/blob/master/doc/http-grpc-status-mapping.md) ⭐ 45,394 | 🐛 1,358 | 🌐 C++ | 📅 2026-10-20 - HTTP to gRPC Status Code Mapping
 * [grpc-errors](https://github.com/avinassh/grpc-errors) ⭐ 586 | 🐛 12 | 🌐 C# | 📅 2023-10-25 - Code examples in each language on how to return and handle error statuses.
 * [Website](https://grpc.io/) - Official documentation, libraries, resources, samples and FAQ
 * [API Design Guide](https://cloud.google.com/apis/design/) - Google Cloud API Design Guide useful for gRPC API design insights
@@ -63,10 +63,10 @@
 
 ## Official Libraries and Tools
 
-* [gRPC Core](https://github.com/grpc/grpc) ⭐ 45,391 | 🐛 1,354 | 🌐 C++ | 📅 2026-10-19 - C, C++, Ruby, Node.js, Python, PHP, C#, Objective-C
-* [grpc\_cli](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md) ⭐ 45,391 | 🐛 1,354 | 🌐 C++ | 📅 2026-10-19 - gRPC CLI tool
-* [gRPC Go](https://github.com/grpc/grpc-go) ⭐ 23,093 | 🐛 176 | 🌐 Go | 📅 2026-10-19 - The Go language implementation of gRPC. HTTP/2 based RPC
-* [gRPC Java](https://github.com/grpc/grpc-java) ⭐ 12,075 | 🐛 536 | 🌐 Java | 📅 2026-10-16 - The Java gRPC implementation. HTTP/2 based RPC
+* [gRPC Core](https://github.com/grpc/grpc) ⭐ 45,394 | 🐛 1,358 | 🌐 C++ | 📅 2026-10-20 - C, C++, Ruby, Node.js, Python, PHP, C#, Objective-C
+* [grpc\_cli](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md) ⭐ 45,394 | 🐛 1,358 | 🌐 C++ | 📅 2026-10-20 - gRPC CLI tool
+* [gRPC Go](https://github.com/grpc/grpc-go) ⭐ 23,092 | 🐛 176 | 🌐 Go | 📅 2026-10-19 - The Go language implementation of gRPC. HTTP/2 based RPC
+* [gRPC Java](https://github.com/grpc/grpc-java) ⭐ 12,073 | 🐛 537 | 🌐 Java | 📅 2026-10-19 - The Java gRPC implementation. HTTP/2 based RPC
 * [gRPC Web](https://github.com/grpc/grpc-web) ⭐ 9,254 | 🐛 173 | 🌐 JavaScript | 📅 2026-10-18 - gRPC for Web Clients
 * [gRPC Node.js](https://github.com/grpc/grpc-node) ⭐ 4,840 | 🐛 242 | 🌐 TypeScript | 📅 2026-10-08 - gRPC for Node.js
 * [gRPC C#](https://github.com/grpc/grpc-dotnet) ⭐ 4,483 | 🐛 182 | 🌐 C# | 📅 2026-10-14 - The C# language implementation of gRPC
@@ -87,7 +87,7 @@
 * [grpcc](https://github.com/njpatel/grpcc) ⭐ 1,135 | 🐛 27 | 🌐 JavaScript | 📅 2019-04-18 - Node.js grpc command-line client
 * [polyglot](https://github.com/grpc-ecosystem/polyglot) ⭐ 534 | 🐛 18 | 🌐 Java | 📅 2022-09-05 - A gRPC command line client written in Java
 * [protodot](https://github.com/seamia/protodot) ⭐ 468 | 🐛 8 | 🌐 Go | 📅 2023-12-21 - Transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
-* [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) ⭐ 310 | 🐛 1 | 🌐 Go | 📅 2026-10-14 - interactive gRPC client
+* [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) ⭐ 310 | 🐛 2 | 🌐 Go | 📅 2026-10-19 - interactive gRPC client
 * [grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) ⭐ 193 | 🐛 5 | 🌐 Go | 📅 2025-12-04 - Debugs serving gRPC applications with tools like channel trace info, xDS config dump, and health checking
 * [gWhisper](https://github.com/IBM/gWhisper) ⭐ 63 | 🐛 29 | 🌐 C++ | 📅 2026-10-05 - Client with interactive tab-completion (uses reflection) and human readable format
 * [proto-to-postman](https://github.com/sonatard/proto-to-postman) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2020-06-19 - Create postman API import collection from .proto files
@@ -123,10 +123,10 @@
 
 ### Testing
 
-* [fortio](https://github.com/fortio/fortio) ⭐ 3,738 | 🐛 82 | 🌐 Go | 📅 2026-10-11 - A microservices (http, grpc) load testing library and tool from Istio project.
+* [fortio](https://github.com/fortio/fortio) ⭐ 3,738 | 🐛 82 | 🌐 Go | 📅 2026-10-19 - A microservices (http, grpc) load testing library and tool from Istio project.
 * [ghz](https://github.com/bojand/ghz) ⭐ 3,358 | 🐛 101 | 🌐 Go | 📅 2026-10-01 - Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl.
-* [Microcks](https://github.com/microcks/microcks) ⭐ 2,066 | 🐛 53 | 🌐 Java | 📅 2026-10-19 - A [Cloud Native Computing Sandbox project](https://landscape.cncf.io/?selected=microcks) 🚀 dedicated to API Mocking and Testing ([gRPC supported](https://microcks.io/documentation/using/grpc/))
-* [Step CI](https://github.com/stepci/stepci) ⭐ 1,870 | 🐛 73 | 🌐 TypeScript | 📅 2024-08-03 - Open-Source API Testing and Monitoring (now with gRPC support!)
+* [Microcks](https://github.com/microcks/microcks) ⭐ 2,067 | 🐛 58 | 🌐 Java | 📅 2026-10-20 - A [Cloud Native Computing Sandbox project](https://landscape.cncf.io/?selected=microcks) 🚀 dedicated to API Mocking and Testing ([gRPC supported](https://microcks.io/documentation/using/grpc/))
+* [Step CI](https://github.com/stepci/stepci) ⭐ 1,871 | 🐛 73 | 🌐 TypeScript | 📅 2024-08-03 - Open-Source API Testing and Monitoring (now with gRPC support!)
 * [grpc-tools](https://github.com/bradleyjkemp/grpc-tools) ⭐ 1,242 | 🐛 39 | 🌐 Go | 📅 2023-11-14 - A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
 * [grpc\_bench](https://github.com/LesnyRumcajs/grpc_bench) ⭐ 939 | 🐛 33 | 🌐 Dockerfile | 📅 2026-06-22 - A suite of gRPC benchmarks for different technologies.
 * [grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) ⭐ 442 | 🐛 14 | 🌐 Java | 📅 2023-06-30 - Debugging gRPC application with swagger-ui.
@@ -136,7 +136,7 @@
 * [strest-grpc](https://github.com/BuoyantIO/strest-grpc) ⭐ 91 | 🐛 7 | 🌐 Go | 📅 2020-06-17 - A load tester for stress testing grpc intermediaries.
 * [hazana](https://github.com/emicklei/hazana) ⭐ 74 | 🐛 2 | 🌐 Go | 📅 2025-08-26 - A Go package for creating load test tooling. Supports gRPC.
 * [jmeter-grpc-plugin](https://github.com/zalopay-oss/jmeter-grpc-plugin) ⭐ 44 | 🐛 12 | 🌐 Java | 📅 2023-06-14 - A plugin supports load test gRPC service with Jmeter.
-* [karate-grpc](https://github.com/karatelabs/karate-examples/blob/main/grpc) ⭐ 41 | 🐛 0 | 🌐 Java | 📅 2026-04-11 - Example of using [Karate](https://github.com/karatelabs/karate) ⭐ 8,989 | 🐛 21 | 🌐 Java | 📅 2026-10-16 to integrate and test gRPC.
+* [karate-grpc](https://github.com/karatelabs/karate-examples/blob/main/grpc) ⭐ 42 | 🐛 0 | 🌐 Java | 📅 2026-04-11 - Example of using [Karate](https://github.com/karatelabs/karate) ⭐ 8,992 | 🐛 13 | 🌐 Java | 📅 2026-10-20 to integrate and test gRPC.
 * [nosymouse](https://nosymouse.io/) - Saas tool to functional, perfomance and secure testing gRPC
 * [grpcmd-script](https://grpc.md/script) - A powerful framework for testing gRPC endpoints using JavaScript within a single binary executable
 * [Keploy](https://github/keploy/keploy) - Keploy is developer-centric API testing tool that creates tests along with built-in-mocks, faster than unit tests. ([gRPC supported](https://keploy.io/docs/keploy-explained/api-testing-faq/#3-what-protocols-and-formats-does-keploy-support))
@@ -145,10 +145,10 @@
 
 ### Other
 
-* [APISIX](https://github.com/apache/apisix) ⭐ 17,239 | 🐛 257 | 🌐 Lua | 📅 2026-10-16 - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
-* [ratelimit](https://github.com/lyft/ratelimit) ⭐ 2,710 | 🐛 51 | 🌐 Go | 📅 2026-10-19 - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
-* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,711 | 🐛 247 | 🌐 Java | 📅 2026-10-19 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
-* [grpc-proxy](https://github.com/mwitkow/grpc-proxy) ⭐ 1,050 | 🐛 35 | 🌐 Go | 📅 2026-03-18 - gRPC reverse proxy with the goal of making it easy to expose gRPC services over the internet
+* [APISIX](https://github.com/apache/apisix) ⭐ 17,241 | 🐛 256 | 🌐 Lua | 📅 2026-10-20 - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
+* [ratelimit](https://github.com/lyft/ratelimit) ⭐ 2,710 | 🐛 50 | 🌐 Go | 📅 2026-10-19 - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
+* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,709 | 🐛 244 | 🌐 Java | 📅 2026-10-20 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+* [grpc-proxy](https://github.com/mwitkow/grpc-proxy) ⭐ 1,051 | 🐛 35 | 🌐 Go | 📅 2026-03-18 - gRPC reverse proxy with the goal of making it easy to expose gRPC services over the internet
 * [kafka-pixy](https://github.com/mailgun/kafka-pixy) ⭐ 790 | 🐛 17 | 🌐 Go | 📅 2024-04-23 - gRPC/REST proxy for Kafka
 * [docker-protoc](https://github.com/namely/docker-protoc) ⭐ 743 | 🐛 40 | 🌐 Shell | 📅 2026-06-09 - Dockerized protoc, grpc-gateway, and grpc\_cli commands bundled with Google API libraries
 * [grpc-json-proxy](https://github.com/jnewmano/grpc-json-proxy) ⭐ 515 | 🐛 12 | 🌐 Go | 📅 2026-10-13 - A proxy which allows existing tools like Postman or curl to interact with gRPC servers
@@ -156,7 +156,7 @@
 * [grpc-http-proxy](https://github.com/mercari/grpc-http-proxy) ⭐ 374 | 🐛 8 | 🌐 Go | 📅 2023-07-05 - A reverse proxy server which translate JSON HTTP requests to gRPC calls based on protoreflect
 * [grpc-pentest-suite](https://github.com/nxenon/grpc-pentest-suite) ⭐ 264 | 🐛 0 | 🌐 Java | 📅 2026-09-21 - A collection of tools for pentesting gRPC-Web, including a Burp Suite extension for manipulating gRPC-Web payloads.
 * [sabledocs](https://github.com/markvincze/sabledocs) ⭐ 93 | 🐛 9 | 🌐 CSS | 📅 2026-05-09 - A simple static documentation generator for Protobuf and gRPC contracts.
-* [limitador](https://github.com/Kuadrant/limitador) ⭐ 89 | 🐛 48 | 🌐 Rust | 📅 2026-10-19 - Generic rate-limiter written in Rust exposing a gRPC service that implements the Envoy Rate Limit protocol (v3).
+* [limitador](https://github.com/Kuadrant/limitador) ⭐ 89 | 🐛 48 | 🌐 Rust | 📅 2026-10-20 - Generic rate-limiter written in Rust exposing a gRPC service that implements the Envoy Rate Limit protocol (v3).
 * [rk-grpc](https://github.com/rookie-ninja/rk-grpc) ⭐ 81 | 🐛 4 | 🌐 Go | 📅 2023-10-31 - Middleware and bootstrapper library for gRPC with logging, metrics, auth, tracing etc.
 * [grpc-mate](https://github.com/gdong42/grpc-mate) ⭐ 75 | 🐛 5 | 🌐 Go | 📅 2026-10-03 - A dynamic proxy server that translates JSON HTTP requests into gRPC calls
 * [danby](https://github.com/ericbets/danby) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-10 - A grpc proxy for the browser
@@ -178,16 +178,16 @@
 * [rpcx](https://github.com/smallnest/rpcx) ⭐ 8,320 | 🐛 4 | 🌐 Go | 📅 2026-09-03 - A RPC service framework based on net/rpc like alibaba Dubbo and weibo Motan
 * [grpcui](https://github.com/fullstorydev/grpcui) ⭐ 5,929 | 🐛 77 | 🌐 JavaScript | 📅 2026-10-15 - Embed a gRPC web UI into a Go gRPC/HTTP server
 * [cmux](https://github.com/soheilhy/cmux) ⭐ 2,770 | 🐛 37 | 🌐 Go | 📅 2026-06-08 - Connection multiplexer for GoLang: serve different services on the same port! Supports gRPC.
-* [lile](https://github.com/lileio/lile) ⭐ 1,495 | 🐛 6 | 🌐 Go | 📅 2023-07-19 - Easily create gRPC services in Go
+* [lile](https://github.com/lileio/lile) ⭐ 1,496 | 🐛 6 | 🌐 Go | 📅 2023-07-19 - Easily create gRPC services in Go
 * [protoreflect](https://github.com/jhump/protoreflect) ⭐ 1,491 | 🐛 2 | 🌐 Go | 📅 2026-10-11 - Reflection (Rich Descriptors) for Go Protocol Buffers
-* [grpc-proxy](https://github.com/mwitkow/grpc-proxy) ⭐ 1,050 | 🐛 35 | 🌐 Go | 📅 2026-03-18 - gRPC proxy is a Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead
+* [grpc-proxy](https://github.com/mwitkow/grpc-proxy) ⭐ 1,051 | 🐛 35 | 🌐 Go | 📅 2026-03-18 - gRPC proxy is a Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead
 * [gripmock](https://github.com/tokopedia/gripmock) ⭐ 746 | 🐛 55 | 🌐 Go | 📅 2026-03-19 - gRPC Mock Server
 * [gRPC over NATS](https://github.com/rapidloop/nrpc) ⭐ 707 | 🐛 15 | 🌐 Go | 📅 2026-03-24 - nRPC is an RPC framework like gRPC, but for NATS.
 * [Mortar](https://github.com/go-masonry/mortar) ⭐ 678 | 🐛 0 | 🌐 Go | 📅 2025-05-13 - GO framework for building gRPC (and REST) web services with DI, Telemetry and more
 * [ttrpc](https://github.com/containerd/ttrpc) ⭐ 669 | 🐛 31 | 🌐 Go | 📅 2026-10-02 - GRPC for low-memory environments
 * [kuberesolver](https://github.com/sercand/kuberesolver) ⭐ 651 | 🐛 8 | 🌐 Go | 📅 2026-04-01 - gRPC Load Balancer with Kubernetes resolver
 * [grpc-gateway-boilerplate](https://github.com/johanbrandhorst/grpc-gateway-boilerplate) ⭐ 498 | 🐛 2 | 🌐 Go | 📅 2023-09-18 - All the boilerplate you need to get started with writing grpc-gateway powered REST services in Go
-* [yarpc](https://github.com/yarpc/yarpc-go) ⭐ 444 | 🐛 81 | 🌐 Go | 📅 2026-10-19 - A message passing platform for Go, including support for gRPC
+* [yarpc](https://github.com/yarpc/yarpc-go) ⭐ 444 | 🐛 80 | 🌐 Go | 📅 2026-10-20 - A message passing platform for Go, including support for gRPC
 * [grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) ⭐ 438 | 🐛 58 | 🌐 JavaScript | 📅 2025-07-25 - Chrome Browser extension to aid gRPC-Web development
 * [grapi](https://github.com/izumin5210/grapi) ⭐ 429 | 🐛 35 | 🌐 Go | 📅 2025-06-16 - 😮 A surprisingly easy API server and generator in gRPC and Go
 * [grpc-consul-resolver](https://github.com/mbobakov/grpc-consul-resolver) ⭐ 348 | 🐛 16 | 🌐 Go | 📅 2026-10-15 - Easy to use endpoints resolver for the services registered in the [Consul](https://www.consul.io/)
@@ -210,7 +210,7 @@
 
 ### Node.js
 
-* [Mali](https://github.com/malijs/mali) ⭐ 888 | 🐛 15 | 🌐 JavaScript | 📅 2024-05-15 - A minimalistic gRPC microservice framework for Node.js
+* [Mali](https://github.com/malijs/mali) ⭐ 889 | 🐛 15 | 🌐 JavaScript | 📅 2024-05-15 - A minimalistic gRPC microservice framework for Node.js
 * [firecomm](https://github.com/firecomm/firecomm) ⭐ 224 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-04 - Feature library for gRPC-Node
 * [grpc-caller](https://github.com/bojand/grpc-caller) ⭐ 185 | 🐛 21 | 🌐 JavaScript | 📅 2023-08-18 - An improved Node.js gRPC client
 * [grpc-dynamic-gateway](https://github.com/konsumer/grpc-dynamic-gateway) ⭐ 110 | 🐛 11 | 🌐 JavaScript | 📅 2021-02-12 - Like grpc-gateway, but written in node and dynamic.
@@ -228,9 +228,9 @@
 
 ### Java
 
-* [Armeria](https://github.com/line/armeria) ⭐ 5,147 | 🐛 715 | 🌐 Java | 📅 2026-10-15 - Asynchronous RPC/REST library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC
-* [grpc-spring-boot-starter](https://github.com/grpc-ecosystem/grpc-spring) ⭐ 3,707 | 🐛 172 | 🌐 Java | 📅 2026-10-14 - Spring Boot starter module for gRPC framework
-* [grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) ⭐ 2,254 | 🐛 55 | 🌐 Java | 📅 2025-11-13 Spring Boot starter module for gRPC framework from LogNet.
+* [Armeria](https://github.com/line/armeria) ⭐ 5,147 | 🐛 717 | 🌐 Java | 📅 2026-10-15 - Asynchronous RPC/REST library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC
+* [grpc-spring-boot-starter](https://github.com/grpc-ecosystem/grpc-spring) ⭐ 3,708 | 🐛 172 | 🌐 Java | 📅 2026-10-20 - Spring Boot starter module for gRPC framework
+* [grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) ⭐ 2,253 | 🐛 55 | 🌐 Java | 📅 2025-11-13 Spring Boot starter module for gRPC framework from LogNet.
 * [grpc-java-contrib](https://github.com/salesforce/grpc-java-contrib) ⭐ 222 | 🐛 14 | 🌐 Java | 📅 2026-06-02 - Useful extensions for the grpc-java library
 * [grpcmock](https://github.com/Fadelis/grpcmock) ⭐ 158 | 🐛 2 | 🌐 Java | 📅 2026-04-23 - A gRPC Java testing tool to easily mock endpoints of gRPC services for IT or Unit testing
 * [gax-java](https://github.com/googleapis/sdk-platform-java/tree/main/gax-java) ⚠️ Archived - Google API Extensions for Java
@@ -242,7 +242,7 @@
 
 ### Ruby
 
-* [gruf](https://github.com/bigcommerce/gruf) ⭐ 650 | 🐛 21 | 🌐 Ruby | 📅 2026-02-20 - gRPC Ruby Framework
+* [gruf](https://github.com/bigcommerce/gruf) ⭐ 651 | 🐛 21 | 🌐 Ruby | 📅 2026-02-20 - gRPC Ruby Framework
 * [gapic-generator-ruby](https://github.com/googleapis/gapic-generator-ruby) ⭐ 50 | 🐛 39 | 🌐 Ruby | 📅 2026-10-16 - Generates Ruby gRPC client libraries from protocol buffer definitions of an API.
 
 <a name="lang-py"></a>
@@ -250,7 +250,7 @@
 ### Python
 
 * [betterproto](https://github.com/danielgtaylor/python-betterproto) ⭐ 1,769 | 🐛 178 | 🌐 Python | 📅 2025-07-17 - More pythonic gRPC based on grpclib and dataclasses
-* [grpclib](https://github.com/vmagamedov/grpclib) ⭐ 988 | 🐛 48 | 🌐 Python | 📅 2025-12-14 - Pure-Python gRPC implementation, based on hyper-h2 project
+* [grpclib](https://github.com/vmagamedov/grpclib) ⭐ 989 | 🐛 48 | 🌐 Python | 📅 2025-12-14 - Pure-Python gRPC implementation, based on hyper-h2 project
 * [django-grpc-framework](https://github.com/fengsp/django-grpc-framework) ⭐ 406 | 🐛 29 | 🌐 Python | 📅 2022-12-10 - A gRPC toolkit for Django inspired by djangorestframework
 * [Bali](https://github.com/bali-framework/bali) ⭐ 364 | 🐛 10 | 🌐 Python | 📅 2025-09-10 - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 * [django-grpc](https://github.com/gluk-w/django-grpc) ⭐ 243 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - Django application to build gRPC services with access to ORM, settings and everything else
@@ -272,9 +272,9 @@
 
 ### Rust
 
-* [tonic](https://github.com/hyperium/tonic) ⭐ 12,494 | 🐛 366 | 🌐 Rust | 📅 2026-10-15 - A native gRPC client & server implementation with async/await support
+* [tonic](https://github.com/hyperium/tonic) ⭐ 12,496 | 🐛 365 | 🌐 Rust | 📅 2026-10-19 - A native gRPC client & server implementation with async/await support
 * [grpc-rs](https://github.com/pingcap/grpc-rs) ⭐ 1,848 | 🐛 111 | 🌐 Rust | 📅 2026-10-19 - The gRPC library for Rust built on C Core library and futures
-* [wtx](https://github.com/c410-f3r/wtx) ⭐ 405 | 🐛 5 | 🌐 Rust | 📅 2026-10-17 - RFC7541 and RFC9113 implementation with built-in support for `gRPC` connections.
+* [wtx](https://github.com/c410-f3r/wtx) ⭐ 405 | 🐛 5 | 🌐 Rust | 📅 2026-10-20 - RFC7541 and RFC9113 implementation with built-in support for `gRPC` connections.
 
 <a name="lang-hs"></a>
 
@@ -306,13 +306,13 @@
 
 ### TypeScript
 
-* [ts-proto](https://github.com/stephenh/ts-proto) ⭐ 2,595 | 🐛 153 | 🌐 TypeScript | 📅 2026-10-18 - Transforms your .proto files into strongly-typed, idiomatic TypeScript files!
-* [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) ⭐ 1,395 | 🐛 49 | 🌐 TypeScript | 📅 2026-01-21 - Protoc Plugin for TypeScript Declarations
-* [protobuf-ts](https://github.com/timostamm/protobuf-ts) ⭐ 1,344 | 🐛 81 | 🌐 TypeScript | 📅 2026-07-22 - Protoc plugin and runtime for TypeScript. Generates gRPC server/client for Node.js, gRPC-Web/Twirp clients for browser, uses Fetch API.
+* [ts-proto](https://github.com/stephenh/ts-proto) ⭐ 2,596 | 🐛 153 | 🌐 TypeScript | 📅 2026-10-18 - Transforms your .proto files into strongly-typed, idiomatic TypeScript files!
+* [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) ⭐ 1,396 | 🐛 49 | 🌐 TypeScript | 📅 2026-01-21 - Protoc Plugin for TypeScript Declarations
+* [protobuf-ts](https://github.com/timostamm/protobuf-ts) ⭐ 1,345 | 🐛 81 | 🌐 TypeScript | 📅 2026-07-22 - Protoc plugin and runtime for TypeScript. Generates gRPC server/client for Node.js, gRPC-Web/Twirp clients for browser, uses Fetch API.
 * [nice-grpc](https://github.com/deeplay-io/nice-grpc) ⭐ 539 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-16 - gRPC library for Node.js and the Browser with modern API and middleware support.
 * [grpc-js-typescript](https://github.com/badsyntax/grpc-js-typescript) ⭐ 204 | 🐛 13 | 📅 2025-09-18 - Examples of how to use gRPC with TypeScript & Node.js.
 * [protoc-gen-grpc-gateway-ts](https://github.com/grpc-ecosystem/protoc-gen-grpc-gateway-ts) ⭐ 164 | 🐛 23 | 🌐 Go | 📅 2023-03-24 - TypeScript client generator for the grpc-gateway project that generates idiomatic TypeScript clients that connect the web frontend and golang backend fronted by grpc-gateway.
-* [sisyphus.js](https://github.com/ButterCam/sisyphus-js) ⭐ 24 | 🐛 4 | 🌐 TypeScript | 📅 2023-09-08 - gRPC runtime and compiler for Web Clients by HTTP transcoding. Recommend using with [Sisyphus](https://github.com/ButterCam/sisyphus) ⭐ 100 | 🐛 9 | 🌐 Kotlin | 📅 2024-04-08 back-end framework.
+* [sisyphus.js](https://github.com/ButterCam/sisyphus-js) ⭐ 25 | 🐛 4 | 🌐 TypeScript | 📅 2023-09-08 - gRPC runtime and compiler for Web Clients by HTTP transcoding. Recommend using with [Sisyphus](https://github.com/ButterCam/sisyphus) ⭐ 100 | 🐛 9 | 🌐 Kotlin | 📅 2024-04-08 back-end framework.
 * [protoc-gen-tstypes](https://godoc.org/github.com/tmc/grpcutil/protoc-gen-tstypes) - Configurable Protoc Plugin to generate TypeScript types.
 
 <a name="lang-scala"></a>
@@ -350,15 +350,15 @@
 
 <a name="lang-cpp"></a>
 
-* [asio-grpc](https://github.com/Tradias/asio-grpc) ⭐ 474 | 🐛 1 | 🌐 C++ | 📅 2026-03-31 - Asynchronous gRPC with [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,623 | 🐛 91 | 🌐 C++ | 📅 2026-08-12 or [libunifex](https://github.com/facebookexperimental/libunifex) ⭐ 1,724 | 🐛 105 | 🌐 C++ | 📅 2026-10-16
-* [qtgrpc](https://github.com/qt/qtgrpc) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2026-10-19 - gRPC and Protobuf generator and bindings for the Qt framework
-* [sugar-proto](https://github.com/illegal-instruction-co/sugar-proto) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2025-09-21 - A Protobuf wrapper with expressive, minimal, and strongly-typed C++ syntax, close to plain structs.
+* [asio-grpc](https://github.com/Tradias/asio-grpc) ⭐ 474 | 🐛 1 | 🌐 C++ | 📅 2026-03-31 - Asynchronous gRPC with [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,624 | 🐛 91 | 🌐 C++ | 📅 2026-08-12 or [libunifex](https://github.com/facebookexperimental/libunifex) ⭐ 1,724 | 🐛 104 | 🌐 C++ | 📅 2026-10-16
+* [qtgrpc](https://github.com/qt/qtgrpc) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2026-10-20 - gRPC and Protobuf generator and bindings for the Qt framework
+* [sugar-proto](https://github.com/illegal-instruction-co/sugar-proto) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2025-09-21 - A Protobuf wrapper with expressive, minimal, and strongly-typed C++ syntax, close to plain structs.
 
 <a name="lang-ballerina"></a>
 
 ### Ballerina
 
-* [Ballerina gRPC](https://github.com/ballerina-platform/module-ballerina-grpc) ⭐ 123 | 🐛 3 | 🌐 Ballerina | 📅 2026-10-19 - Ballerina library for gRPC
+* [Ballerina gRPC](https://github.com/ballerina-platform/module-ballerina-grpc) ⭐ 123 | 🐛 2 | 🌐 Ballerina | 📅 2026-10-20 - Ballerina library for gRPC
 * [Ballerina gRPC CLI](https://github.com/ballerina-platform/protoc-tools) ⭐ 101 | 🐛 0 | 🌐 Ballerina | 📅 2026-10-16 - Ballerina gRPC CLI tool
 
 ## Resources
@@ -462,9 +462,9 @@
 
 * [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) ⭐ 2,533 | 🐛 32 | 🌐 C# | 📅 2023-03-07 - A containerized polyglot gRPC microservices based on .NET Core, Nodejs and more running on Istio
 * [Text to Speech server with gRPC and Kubernetes](https://github.com/campoy/justforfunc/tree/master/12-say-grpc) ⭐ 1,492 | 🐛 19 | 🌐 Go | 📅 2019-11-21 - justforfunc #12
-* [Go Microservices Example](https://github.com/harlow/go-micro-services) ⭐ 1,092 | 🐛 0 | 🌐 Go | 📅 2026-03-06 - HTTP up front, Protobufs in the rear
-* [go-micro-services](https://github.com/harlow/go-micro-services) ⭐ 1,092 | 🐛 0 | 🌐 Go | 📅 2026-03-06 - An demonstration of Golang micro-services that expose a HTTP/JSON frontend and then leverages gRPC for inter-service communication
-* [Colossus](https://github.com/lucperkins/colossus) ⭐ 1,043 | 🐛 1 | 🌐 Starlark | 📅 2022-06-02 - An example multi-language gRPC microservice architecture built by Bazel and targeting Kubernetes
+* [Go Microservices Example](https://github.com/harlow/go-micro-services) ⭐ 1,093 | 🐛 0 | 🌐 Go | 📅 2026-03-06 - HTTP up front, Protobufs in the rear
+* [go-micro-services](https://github.com/harlow/go-micro-services) ⭐ 1,093 | 🐛 0 | 🌐 Go | 📅 2026-03-06 - An demonstration of Golang micro-services that expose a HTTP/JSON frontend and then leverages gRPC for inter-service communication
+* [Colossus](https://github.com/lucperkins/colossus) ⭐ 1,044 | 🐛 1 | 🌐 Starlark | 📅 2022-06-02 - An example multi-language gRPC microservice architecture built by Bazel and targeting Kubernetes
 * [gRPC Java Examples](https://github.com/saturnism/grpc-java-by-example) ⭐ 884 | 🐛 26 | 🌐 Java | 📅 2021-07-26 - A collection of useful/essential gRPC Java Examples
 * [Go gRPC features examples](https://github.com/vladimirvivien/go-grpc) ⭐ 253 | 🐛 0 | 🌐 Go | 📅 2022-02-28 - A collection of gRPC and Go examples showcasing features of the framework
 * [Making a Multiplayer Game With Go and gRPC](https://mortenson.coffee/blog/making-multiplayer-game-go-and-grpc/) - gRPC game example in Go. [Source](https://github.com/mortenson/grpc-game-example) ⭐ 239 | 🐛 0 | 🌐 Go | 📅 2020-05-17.
@@ -475,7 +475,7 @@
 * [gRPC/OpenCensus Demo](https://github.com/rakyll/opencensus-grpc-demo) ⭐ 59 | 🐛 3 | 🌐 Java | 📅 2018-05-08 - Export metrics and traces from gRPC servers and clients using Java, Go and Prometheus
 * [gRPC Goat - An intentionally vulnerable gRPC Security Lab](https://github.com/rootxjs/grpc-goat) ⭐ 56 | 🐛 0 | 🌐 Go | 📅 2025-09-22 -  gRPC Goat is a "Vulnerable by Design" lab created to provide an interactive, hands-on playground for learning and practicing gRPC security.
 * [gRPC Microservices with Go and Kubernetes](https://github.com/shuza/kubernetes-go-grpc) ⭐ 41 | 🐛 1 | 🌐 Go | 📅 2024-05-21 - A sample application use gRPC in microservice and deploy in kubernetes.
-* [Hello gRPC](https://github.com/feuyeux/hello-grpc) ⭐ 19 | 🐛 25 | 🌐 Shell | 📅 2026-10-14 - Simple server and client examples showcasing gRPC features(including proxy and propagate, running in containers and kubernetes) with Java/Kotlin/Go/NodeJs/Python/Rust/C++/C#.
+* [Hello gRPC](https://github.com/feuyeux/hello-grpc) ⭐ 19 | 🐛 22 | 🌐 Shell | 📅 2026-10-19 - Simple server and client examples showcasing gRPC features(including proxy and propagate, running in containers and kubernetes) with Java/Kotlin/Go/NodeJs/Python/Rust/C++/C#.
 * [Envoy proxy as an API gateway for gRPC microservice](https://ekhabarov.com/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/bazel-k8s-envoy) ⭐ 18 | 🐛 0 | 🌐 Starlark | 📅 2026-01-15
 * [GCP - Online Boutique application rewritten in Ballerina](https://github.com/ballerina-guides/gcp-microservices-demo) ⭐ 18 | 🐛 1 | 🌐 Ballerina | 📅 2026-08-06 - Online Boutique application rewritten in Ballerina
 * [gRPC Ballerina service Example](https://ballerina.io/learn/by-example/#grpc-service) - A collection of simple gRPC service examples written in Ballerina
@@ -498,7 +498,7 @@
 
 ### Documentation
 
-* [Third-Party Add-ons for Protocol Buffers](https://github.com/protocolbuffers/protobuf/blob/master/docs/third_party.md) ⭐ 72,116 | 🐛 384 | 🌐 C++ | 📅 2026-10-19 - List of add-ons for Protocol Buffers in main github repository
+* [Third-Party Add-ons for Protocol Buffers](https://github.com/protocolbuffers/protobuf/blob/master/docs/third_party.md) ⭐ 72,123 | 🐛 387 | 🌐 C++ | 📅 2026-10-20 - List of add-ons for Protocol Buffers in main github repository
 * [Website](https://developers.google.com/protocol-buffers/) - Official website and documentation
 
 <a name="proto-package-managers"></a>
@@ -511,17 +511,17 @@
 
 ### Tools
 
-* [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) ⭐ 2,843 | 🐛 130 | 🌐 Go | 📅 2026-07-21 - Documentation generator plugin for Google Protocol Buffers
+* [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) ⭐ 2,844 | 🐛 130 | 🌐 Go | 📅 2026-07-21 - Documentation generator plugin for Google Protocol Buffers
 * [Protovalidate](https://github.com/bufbuild/protovalidate) ⭐ 1,580 | 🐛 28 | 🌐 Go | 📅 2026-10-12 - Protovalidate provides standard annotations to validate common rules on messages and fields, as well as the ability to use CEL to write custom rules.
 * [go-proto-validators](https://github.com/mwitkow/go-proto-validators) ⭐ 1,101 | 🐛 47 | 🌐 Go | 📅 2023-10-25 - Generate message validators from .proto annotations, used in `grpc_validator` Go gRPC middleware.
-* [openapi2proto](https://github.com/NYTimes/openapi2proto) ⭐ 1,003 | 🐛 22 | 🌐 Go | 📅 2023-05-21 - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications
+* [openapi2proto](https://github.com/NYTimes/openapi2proto) ⭐ 1,005 | 🐛 22 | 🌐 Go | 📅 2023-05-21 - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications
 * [api-linter](https://github.com/googleapis/api-linter) ⭐ 771 | 🐛 62 | 🌐 Go | 📅 2026-10-14 - A linter for APIs defined in protocol buffers.
 * [protolint](https://github.com/yoheimuta/protolint) ⭐ 697 | 🐛 53 | 🌐 Go | 📅 2026-10-07 - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 * [protolock](https://github.com/nilslice/protolock) ⭐ 631 | 🐛 23 | 🌐 Go | 📅 2024-02-12 - Protocol Buffer companion tool to `protoc` and `git`. Track your .proto files and prevent changes to messages and services which impact API compatibilty.
 * [protoc-gen-lint](https://github.com/ckaznocha/protoc-gen-lint) ⭐ 287 | 🐛 4 | 🌐 Go | 📅 2024-12-23 - A plug-in for Google's Protocol Buffers (protobufs) compiler to lint .proto files for style violations
 * [protoc-gen-struct-transformer](https://github.com/bold-commerce/protoc-gen-struct-transformer) ⚠️ Archived - Transformation functions generator for Protocol Buffers.
-* [Wireshark Protobuf Dissector](https://github.com/128technology/protobuf_dissector) ⭐ 192 | 🐛 12 | 🌐 Lua | 📅 2019-01-19 - A Wireshark Lua plugin for decoding Google protobuf packets. [Relevant PR and discussion](https://github.com/google/protobuf/issues/3303) ⭐ 72,116 | 🐛 384 | 🌐 C++ | 📅 2026-10-19.
-* [prototools](https://github.com/sourcegraph/prototools) ⭐ 174 | 🐛 6 | 🌐 Go | 📅 2026-09-16 - Documentation generator & other tools for protobuf/gRPC.
+* [Wireshark Protobuf Dissector](https://github.com/128technology/protobuf_dissector) ⭐ 193 | 🐛 12 | 🌐 Lua | 📅 2019-01-19 - A Wireshark Lua plugin for decoding Google protobuf packets. [Relevant PR and discussion](https://github.com/google/protobuf/issues/3303) ⭐ 72,123 | 🐛 387 | 🌐 C++ | 📅 2026-10-20.
+* [prototools](https://github.com/sourcegraph/prototools) ⭐ 175 | 🐛 6 | 🌐 Go | 📅 2026-09-16 - Documentation generator & other tools for protobuf/gRPC.
 * [protoc-gen-map](https://github.com/jackskj/protoc-gen-map) ⚠️ Archived - SQL data mapper framework for Protocol Buffers.
 * [intellij-protobuf-plugin](https://github.com/devkanro/intellij-protobuf-plugin) ⭐ 95 | 🐛 19 | 🌐 Kotlin | 📅 2026-10-08 - IntelliJ-based IDEs Protobuf Language Plugin that provides Protobuf language support.
 * [protoc-gen-apidocs](https://github.com/tmc/protoc-gen-apidocs) ⭐ 33 | 🐛 0 | 🌐 Go | 📅 2024-04-24 - Documentation generator plugin for protobuf/gRPC.
@@ -623,4 +623,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
