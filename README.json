@@ -15,11 +15,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T18:15:27Z",
-            "open_issues": 1371,
+            "last_commit": "2026-10-25T08:37:34Z",
+            "open_issues": 1363,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45400,
+            "stars": 45401,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -36,11 +36,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T18:15:27Z",
-            "open_issues": 1371,
+            "last_commit": "2026-10-25T08:37:34Z",
+            "open_issues": 1363,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45400,
+            "stars": 45401,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -57,11 +57,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T18:15:27Z",
-            "open_issues": 1371,
+            "last_commit": "2026-10-25T08:37:34Z",
+            "open_issues": 1363,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45400,
+            "stars": 45401,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -105,11 +105,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T18:15:27Z",
-            "open_issues": 1371,
+            "last_commit": "2026-10-25T08:37:34Z",
+            "open_issues": 1363,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45400,
+            "stars": 45401,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -126,11 +126,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T18:15:27Z",
-            "open_issues": 1371,
+            "last_commit": "2026-10-25T08:37:34Z",
+            "open_issues": 1363,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45400,
+            "stars": 45401,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -148,10 +148,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T18:13:30Z",
-            "open_issues": 188,
+            "open_issues": 191,
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23095,
+            "stars": 23094,
             "topics": [
               "dogs-over-cats",
               "giant-robots",
@@ -210,7 +210,7 @@
             "open_issues": 173,
             "owner": "grpc",
             "repo": "grpc-web",
-            "stars": 9254,
+            "stars": 9255,
             "topics": [
               "grpc",
               "javascript",
@@ -259,7 +259,7 @@
             "open_issues": 183,
             "owner": "grpc",
             "repo": "grpc-dotnet",
-            "stars": 4485,
+            "stars": 4486,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -306,7 +306,7 @@
             "open_issues": 113,
             "owner": "grpc",
             "repo": "grpc-kotlin",
-            "stars": 1296,
+            "stars": 1297,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -380,7 +380,7 @@
                 "open_issues": 121,
                 "owner": "fullstorydev",
                 "repo": "grpcurl",
-                "stars": 12862,
+                "stars": 12863,
                 "topics": [
                   "golang",
                   "grpc",
@@ -716,7 +716,7 @@
                 "open_issues": 78,
                 "owner": "fullstorydev",
                 "repo": "grpcui",
-                "stars": 5929,
+                "stars": 5930,
                 "topics": [
                   "golang",
                   "grpc",
@@ -798,7 +798,7 @@
                 "open_issues": 22,
                 "owner": "getezy",
                 "repo": "ezy",
-                "stars": 1039,
+                "stars": 1040,
                 "topics": [
                   "api",
                   "api-testing",
@@ -1058,8 +1058,8 @@
                 "id": 31214867,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T13:29:06Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-25T01:25:17Z",
+                "open_issues": 48,
                 "owner": "microcks",
                 "repo": "microcks",
                 "stars": 2067,
@@ -1174,7 +1174,7 @@
                 "open_issues": 33,
                 "owner": "LesnyRumcajs",
                 "repo": "grpc_bench",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "benchmark",
                   "grpc",
@@ -1199,7 +1199,7 @@
                 "open_issues": 14,
                 "owner": "grpc-swagger",
                 "repo": "grpc-swagger",
-                "stars": 442,
+                "stars": 441,
                 "topics": [
                   "grpc",
                   "grpc-api",
@@ -1417,10 +1417,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T08:58:08Z",
-                "open_issues": 262,
+                "open_issues": 261,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17249,
+                "stars": 17250,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -1461,7 +1461,7 @@
                 "open_issues": 52,
                 "owner": "envoyproxy",
                 "repo": "ratelimit",
-                "stars": 2712,
+                "stars": 2711,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:14.406Z"
@@ -1478,11 +1478,11 @@
                 "id": 436039945,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T02:04:41Z",
-                "open_issues": 254,
+                "last_commit": "2026-10-24T21:20:44Z",
+                "open_issues": 253,
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1689,
+                "stars": 1688,
                 "topics": [
                   "api-gateway",
                   "asyncapi",
@@ -1663,7 +1663,7 @@
                 "id": 665543627,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T12:27:31Z",
+                "last_commit": "2026-10-24T19:43:41Z",
                 "open_issues": 0,
                 "owner": "nxenon",
                 "repo": "grpc-pentest-suite",
@@ -1700,7 +1700,7 @@
                 "open_issues": 9,
                 "owner": "markvincze",
                 "repo": "sabledocs",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "documentation",
                   "grpc",
@@ -1954,7 +1954,7 @@
                 "open_issues": 4,
                 "owner": "smallnest",
                 "repo": "rpcx",
-                "stars": 8320,
+                "stars": 8319,
                 "topics": [
                   "dubbo",
                   "grpc",
@@ -1982,7 +1982,7 @@
                 "open_issues": 78,
                 "owner": "fullstorydev",
                 "repo": "grpcui",
-                "stars": 5929,
+                "stars": 5930,
                 "topics": [
                   "golang",
                   "grpc",
@@ -3060,7 +3060,7 @@
                 "open_issues": 724,
                 "owner": "line",
                 "repo": "armeria",
-                "stars": 5147,
+                "stars": 5148,
                 "topics": [
                   "gateway",
                   "grpc",
@@ -3448,8 +3448,8 @@
                 "id": 166471167,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T06:59:11Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-25T01:57:04Z",
+                "open_issues": 2,
                 "owner": "gluk-w",
                 "repo": "django-grpc",
                 "stars": 243,
@@ -3615,7 +3615,7 @@
                 "open_issues": 9,
                 "owner": "Cysharp",
                 "repo": "MagicOnion",
-                "stars": 4456,
+                "stars": 4455,
                 "topics": [
                   "c-sharp",
                   "grpc",
@@ -3670,10 +3670,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-23T23:11:42Z",
-                "open_issues": 369,
+                "open_issues": 370,
                 "owner": "grpc",
                 "repo": "grpc-rust",
-                "stars": 12501,
+                "stars": 12505,
                 "topics": [
                   "async",
                   "grpc",
@@ -4179,7 +4179,7 @@
                 "open_issues": 15,
                 "owner": "typelevel",
                 "repo": "fs2-grpc",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:14.406Z"
@@ -5158,8 +5158,8 @@
                 "id": 23357588,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T10:52:40Z",
-                "open_issues": 405,
+                "last_commit": "2026-10-25T12:32:28Z",
+                "open_issues": 416,
                 "owner": "protocolbuffers",
                 "repo": "protobuf",
                 "stars": 72130,
@@ -5668,7 +5668,7 @@
                 "open_issues": 13,
                 "owner": "twitchtv",
                 "repo": "twirp",
-                "stars": 7526,
+                "stars": 7527,
                 "topics": [
                   "go",
                   "protobuf",
@@ -5730,7 +5730,7 @@
                     "open_issues": 0,
                     "owner": "bloomrpc",
                     "repo": "bloomrpc",
-                    "stars": 8971,
+                    "stars": 8972,
                     "topics": [
                       "grpc"
                     ]
@@ -6075,7 +6075,7 @@
                     "open_issues": 31,
                     "owner": "salesforce",
                     "repo": "reactive-grpc",
-                    "stars": 837,
+                    "stars": 838,
                     "topics": [
                       "grpc-java",
                       "reactor",
@@ -6273,7 +6273,7 @@
                     "open_issues": 43,
                     "owner": "uber",
                     "repo": "prototool",
-                    "stars": 5030,
+                    "stars": 5031,
                     "topics": [
                       "grpc",
                       "grpc-go",
@@ -6334,7 +6334,7 @@
                     "open_issues": 233,
                     "owner": "gogo",
                     "repo": "protobuf",
-                    "stars": 5654,
+                    "stars": 5655,
                     "topics": [
                       "go",
                       "golang",
@@ -6381,7 +6381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:59:46.641Z",
+    "last_updated": "2026-10-25T12:34:03.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for gRPC",
@@ -6390,10 +6390,10 @@
       "language": null,
       "license": "CC-BY-4.0",
       "last_commit": "2025-10-28T00:53:09Z",
-      "open_issues": 33,
+      "open_issues": 34,
       "owner": "grpc-ecosystem",
       "repo": "awesome-grpc",
-      "stars": 8364,
+      "stars": 8366,
       "topics": [
         "awesome",
         "awesome-list",
