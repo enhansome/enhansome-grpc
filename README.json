@@ -15,11 +15,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T12:15:29Z",
-            "open_issues": 1349,
+            "last_commit": "2026-10-30T22:15:39Z",
+            "open_issues": 1351,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45407,
+            "stars": 45408,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -36,11 +36,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T12:15:29Z",
-            "open_issues": 1349,
+            "last_commit": "2026-10-30T22:15:39Z",
+            "open_issues": 1351,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45407,
+            "stars": 45408,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -57,11 +57,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T12:15:29Z",
-            "open_issues": 1349,
+            "last_commit": "2026-10-30T22:15:39Z",
+            "open_issues": 1351,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45407,
+            "stars": 45408,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -105,11 +105,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T12:15:29Z",
-            "open_issues": 1349,
+            "last_commit": "2026-10-30T22:15:39Z",
+            "open_issues": 1351,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45407,
+            "stars": 45408,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -126,11 +126,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T12:15:29Z",
-            "open_issues": 1349,
+            "last_commit": "2026-10-30T22:15:39Z",
+            "open_issues": 1351,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45407,
+            "stars": 45408,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -183,7 +183,7 @@
             "open_issues": 535,
             "owner": "grpc",
             "repo": "grpc-java",
-            "stars": 12074,
+            "stars": 12073,
             "topics": [
               "grpc",
               "java",
@@ -210,7 +210,7 @@
             "open_issues": 173,
             "owner": "grpc",
             "repo": "grpc-web",
-            "stars": 9258,
+            "stars": 9259,
             "topics": [
               "grpc",
               "javascript",
@@ -255,8 +255,8 @@
             "id": 159548561,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T04:56:39Z",
-            "open_issues": 177,
+            "last_commit": "2026-10-31T10:48:07Z",
+            "open_issues": 175,
             "owner": "grpc",
             "repo": "grpc-dotnet",
             "stars": 4488,
@@ -280,7 +280,7 @@
             "open_issues": 99,
             "owner": "grpc",
             "repo": "grpc-swift",
-            "stars": 2247,
+            "stars": 2249,
             "topics": [
               "grpc",
               "protocol-buffers",
@@ -306,7 +306,7 @@
             "open_issues": 113,
             "owner": "grpc",
             "repo": "grpc-kotlin",
-            "stars": 1297,
+            "stars": 1298,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:14.406Z"
@@ -324,7 +324,7 @@
             "language": "Dart",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T22:14:24Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "grpc",
             "repo": "grpc-dart",
             "stars": 891,
@@ -405,7 +405,7 @@
                 "open_issues": 38,
                 "owner": "ktr0731",
                 "repo": "evans",
-                "stars": 4491,
+                "stars": 4492,
                 "topics": [
                   "cli",
                   "completion",
@@ -741,7 +741,7 @@
                 "open_issues": 39,
                 "owner": "rogchap",
                 "repo": "wombat",
-                "stars": 1430,
+                "stars": 1431,
                 "topics": [
                   "go",
                   "grpc",
@@ -1104,7 +1104,7 @@
                 "open_issues": 73,
                 "owner": "stepci",
                 "repo": "stepci",
-                "stars": 1872,
+                "stars": 1873,
                 "topics": [
                   "actions",
                   "api-client",
@@ -1146,7 +1146,7 @@
                 "open_issues": 39,
                 "owner": "bradleyjkemp",
                 "repo": "grpc-tools",
-                "stars": 1242,
+                "stars": 1243,
                 "topics": [
                   "debugging-tool",
                   "grpc",
@@ -1392,7 +1392,7 @@
                 "open_issues": 0,
                 "owner": "karatelabs",
                 "repo": "karate-examples",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:14.406Z"
@@ -1417,10 +1417,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T06:38:04Z",
-                "open_issues": 235,
+                "open_issues": 236,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17273,
+                "stars": 17277,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -1461,7 +1461,7 @@
                 "open_issues": 51,
                 "owner": "envoyproxy",
                 "repo": "ratelimit",
-                "stars": 2712,
+                "stars": 2713,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:14.406Z"
@@ -1478,11 +1478,11 @@
                 "id": 436039945,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T07:53:21Z",
-                "open_issues": 322,
+                "last_commit": "2026-10-31T10:35:53Z",
+                "open_issues": 327,
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1690,
+                "stars": 1691,
                 "topics": [
                   "api-gateway",
                   "asyncapi",
@@ -1722,7 +1722,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T11:14:18Z",
-                "open_issues": 43,
+                "open_issues": 45,
                 "owner": "Kuadrant",
                 "repo": "limitador",
                 "stars": 89,
@@ -1954,7 +1954,7 @@
                 "open_issues": 4,
                 "owner": "smallnest",
                 "repo": "rpcx",
-                "stars": 8319,
+                "stars": 8321,
                 "topics": [
                   "dubbo",
                   "grpc",
@@ -2057,7 +2057,7 @@
                 "open_issues": 2,
                 "owner": "jhump",
                 "repo": "protoreflect",
-                "stars": 1491,
+                "stars": 1492,
                 "topics": [
                   "go",
                   "golang",
@@ -3057,7 +3057,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T05:17:55Z",
-                "open_issues": 717,
+                "open_issues": 719,
                 "owner": "line",
                 "repo": "armeria",
                 "stars": 5149,
@@ -3669,11 +3669,11 @@
                 "id": 201517171,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-30T09:16:30Z",
+                "last_commit": "2026-10-30T18:40:04Z",
                 "open_issues": 369,
                 "owner": "grpc",
                 "repo": "grpc-rust",
-                "stars": 12512,
+                "stars": 12515,
                 "topics": [
                   "async",
                   "grpc",
@@ -3721,7 +3721,7 @@
                 "language": "Rust",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-30T13:18:15Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "c410-f3r",
                 "repo": "wtx",
                 "stars": 405,
@@ -3888,7 +3888,7 @@
                 "open_issues": 62,
                 "owner": "elixir-grpc",
                 "repo": "grpc",
-                "stars": 1530,
+                "stars": 1531,
                 "topics": [
                   "elixir",
                   "google-protocol-buffers",
@@ -3962,7 +3962,7 @@
                 "open_issues": 154,
                 "owner": "stephenh",
                 "repo": "ts-proto",
-                "stars": 2596,
+                "stars": 2597,
                 "topics": [
                   "dataloader",
                   "grpc",
@@ -4196,7 +4196,7 @@
                 "id": 237126596,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T03:41:23Z",
+                "last_commit": "2026-10-31T00:23:37Z",
                 "open_issues": 28,
                 "owner": "scalapb",
                 "repo": "zio-grpc",
@@ -4726,7 +4726,7 @@
                 "open_issues": 0,
                 "owner": "harlow",
                 "repo": "go-micro-services",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": [
                   "consul",
                   "go",
@@ -4755,7 +4755,7 @@
                 "open_issues": 0,
                 "owner": "harlow",
                 "repo": "go-micro-services",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": [
                   "consul",
                   "go",
@@ -4784,7 +4784,7 @@
                 "open_issues": 1,
                 "owner": "lucperkins",
                 "repo": "colossus",
-                "stars": 1044,
+                "stars": 1045,
                 "topics": [
                   "bazel",
                   "docker",
@@ -5158,11 +5158,11 @@
                 "id": 23357588,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T13:10:19Z",
-                "open_issues": 385,
+                "last_commit": "2026-10-31T10:09:14Z",
+                "open_issues": 364,
                 "owner": "protocolbuffers",
                 "repo": "protobuf",
-                "stars": 72141,
+                "stars": 72138,
                 "topics": [
                   "marshalling",
                   "protobuf",
@@ -5324,7 +5324,7 @@
                 "open_issues": 22,
                 "owner": "nytimes",
                 "repo": "openapi2proto",
-                "stars": 1005,
+                "stars": 1006,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:14.406Z"
@@ -5730,7 +5730,7 @@
                     "open_issues": 0,
                     "owner": "bloomrpc",
                     "repo": "bloomrpc",
-                    "stars": 8972,
+                    "stars": 8973,
                     "topics": [
                       "grpc"
                     ]
@@ -6107,7 +6107,7 @@
                     "open_issues": 60,
                     "owner": "stepancheg",
                     "repo": "grpc-rust",
-                    "stars": 1365,
+                    "stars": 1366,
                     "topics": [
                       "grpc",
                       "http2",
@@ -6273,7 +6273,7 @@
                     "open_issues": 43,
                     "owner": "uber",
                     "repo": "prototool",
-                    "stars": 5032,
+                    "stars": 5033,
                     "topics": [
                       "grpc",
                       "grpc-go",
@@ -6331,10 +6331,10 @@
                     "language": "Go",
                     "license": "NOASSERTION",
                     "last_commit": "2023-07-27T11:52:49Z",
-                    "open_issues": 233,
+                    "open_issues": 232,
                     "owner": "gogo",
                     "repo": "protobuf",
-                    "stars": 5658,
+                    "stars": 5659,
                     "topics": [
                       "go",
                       "golang",
@@ -6381,7 +6381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:07:06.943Z",
+    "last_updated": "2026-10-31T13:38:58.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for gRPC",
@@ -6393,7 +6393,7 @@
       "open_issues": 36,
       "owner": "grpc-ecosystem",
       "repo": "awesome-grpc",
-      "stars": 8365,
+      "stars": 8367,
       "topics": [
         "awesome",
         "awesome-list",
